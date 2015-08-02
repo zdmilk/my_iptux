@@ -1,0 +1,123 @@
+iptux (0.6.2-2) unstable; urgency=low
+
+  * New upstream release. (Closes: #731665)
+  * debian/watch: Upstream has moved to https://github.com/iptux-src/iptux/
+  * Bump debhelper compatibility to 9
+  * Update Standards-Version to 3.9.5
+  * Delete leftover po/*.gmo and src/uninstall/Makefile
+  * Update debian/copyright with new information, and change license to
+    from GPL-2 to GPL-2+ according to src/HelpDialog.cpp
+  * Add description in DEP-3 format to 01-desktop_encoding.patch
+  * Add myself to the list of Uploaders
+
+ -- Anthony Fok <foka@debian.org>  Thu, 19 Dec 2013 12:24:15 +0800
+
+iptux (0.5.3-1) unstable; urgency=low
+
+  * New upstream release, fix FTBFS with ld --as-needed
+    (Closes: #647085).
+  * Add myself to Uploaders.
+  * Rewrite debian/copyright to DEP5 format.
+  * Use dh 8, compat 8.
+  * Convert patch to quilt system.
+  * Remove useless README.source
+
+ -- Aron Xu <aron@debian.org>  Sat, 14 Jan 2012 00:15:11 +0800
+
+iptux (0.5.2-1) unstable; urgency=low
+
+  * new upstream release.
+  * debian/source/format: debian format 3.0. 
+  * debian/control:
+    - fix debhelper-but-no-misc-depends
+    - use debhelper 7
+    - bump standards version to 3.9.2.
+    - new maintainer.
+    - update Vcs-* fields.
+    - update Description.
+  * debian/rules: rewrite
+  * debian/compat: 7
+  * debian/patches/series: new patch system.
+
+ -- LI Daobing <lidaobing@debian.org>  Sat, 06 Aug 2011 10:58:00 +0800
+
+iptux (0.5.1-2-1) unstable; urgency=low
+
+  * new upstream release.
+
+ -- LI Daobing <lidaobing@debian.org>  Sun, 29 Nov 2009 10:39:10 +0800
+
+iptux (0.5.1-1) unstable; urgency=low
+
+  * new upstream release.
+
+ -- LI Daobing <lidaobing@debian.org>  Sun, 01 Nov 2009 19:17:24 +0800
+
+iptux (0.5.0-2-1) unstable; urgency=low
+
+  * new upstream release.
+
+ -- LI Daobing <lidaobing@debian.org>  Sun, 11 Oct 2009 12:12:35 +0800
+
+iptux (0.5.0-1-1) unstable; urgency=low
+
+  * new upstream release.
+  * debian/watch: updated. 
+
+ -- LI Daobing <lidaobing@debian.org>  Fri, 09 Oct 2009 20:08:57 +0800
+
+iptux (0.5.0-1) unstable; urgency=low
+
+  * new upstream release. 
+  * debian/watch: updated. 
+  * debian/control:
+    - change maintainer's name.
+    - bump standards version to 3.8.3. 
+    - update Vcs-* fields.
+  * debian/docs: updated. 
+  * debian/iptux.1: updated. 
+  * debian/rules: remove dh_desktop 
+  * debian/README.source: added. 
+
+ -- LI Daobing <lidaobing@debian.org>  Thu, 08 Oct 2009 17:52:29 +0800
+
+iptux (0.4.5.2-1) unstable; urgency=low
+
+  * new upstream release.
+  * debian/control: add libgstreamer0.10-dev to Build-Depends. 
+  * debian/rules: remove the uninstall tool "ihateiptux".
+
+ -- LI Daobing <lidaobing@gmail.com>  Sun, 29 Mar 2009 15:51:39 +0800
+
+iptux (0.4.4-1) unstable; urgency=low
+
+  * Intial release to Debian (closes: #507451)
+
+ -- LI Daobing <lidaobing@gmail.com>  Fri, 20 Feb 2009 23:08:37 +0800
+
+iptux (0.4.4-0ubuntu1) jaunty; urgency=low
+
+  * new upstream released (LP: #318175)
+  * debian/rules: add "--as-needed" to LDFLAGS.
+
+ -- LI Daobing <lidaobing@gmail.com>  Sat, 17 Jan 2009 23:52:02 +0800
+
+iptux (0.4.3-0ubuntu1) jaunty; urgency=low
+
+  * new upstream released (LP: #311069)
+  * debian/control: update description.
+  * debian/copyright: fix license. iptux is GPLv2 only.
+  * debian/docs: ship NEWS.
+
+ -- LI Daobing <lidaobing@gmail.com>  Tue, 30 Dec 2008 20:38:16 +0800
+
+iptux (0.4.1-0ubuntu1) jaunty; urgency=low
+
+  [ LI Daobing ]
+  * Initial release (LP: #292518)
+
+  [ Zhengpeng Hou ]
+  * Add myself as an uploader. :)
+  * Use /use/share/common-licenses/GPL-2 in copyright.
+
+ -- Zhengpeng Hou <zhengpeng-hou@ubuntu.com>  Thu, 04 Dec 2008 03:27:36 +0000

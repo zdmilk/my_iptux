@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_install:
+	dh_install
+	rm -f $(CURDIR)/debian/iptux/usr/bin/ihateiptux
+
+override_dh_auto_clean:
+	dh_auto_clean
+	rm -f po/*.gmo src/uninstall/Makefile

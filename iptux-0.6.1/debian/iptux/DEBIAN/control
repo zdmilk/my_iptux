@@ -1,0 +1,16 @@
+Package: iptux
+Version: 0.6.2-2
+Architecture: i386
+Maintainer: Debian Chinese Team <chinese-developers@lists.alioth.debian.org>
+Installed-Size: 616
+Depends: gconf-service, libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libgconf-2-4 (>= 2.31.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.35.9), libgstreamer0.10-0 (>= 0.10.0), libgtk2.0-0 (>= 2.16.0), libpango1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1)
+Section: net
+Priority: optional
+Homepage: http://code.google.com/p/iptux/
+Description: intranet communication tool for Linux
+ iptux is an IP Messenger client for Linux.
+ .
+ It supports:
+  - auto-detect other clients on the intranet.
+  - send message to other clients.
+  - send file to other clients.

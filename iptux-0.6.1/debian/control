@@ -1,0 +1,22 @@
+Source: iptux
+Section: net
+Priority: optional
+Maintainer: Debian Chinese Team <chinese-developers@lists.alioth.debian.org>
+Uploaders: Aron Xu <aron@debian.org>, LI Daobing <lidaobing@debian.org>, Anthony Fok <foka@debian.org>
+Build-Depends: debhelper (>= 9), autotools-dev, libgtk2.0-dev,
+ libgconf2-dev, libgstreamer0.10-dev
+Standards-Version: 3.9.5
+Homepage: http://code.google.com/p/iptux/
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=chinese/iptux.git
+Vcs-Git: git://anonscm.debian.org/chinese/iptux.git
+
+Package: iptux
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: intranet communication tool for Linux
+ iptux is an IP Messenger client for Linux.
+ . 
+ It supports:
+  - auto-detect other clients on the intranet.
+  - send message to other clients.
+  - send file to other clients.

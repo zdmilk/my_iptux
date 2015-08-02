@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 19 Dec 2013 12:24:15 +0800
+Source: iptux
+Binary: iptux
+Architecture: i386
+Version: 0.6.1-2
+Distribution: unstable
+Urgency: low
+Maintainer: Debian Chinese Team <chinese-developers@lists.alioth.debian.org>
+Changed-By: Anthony Fok <foka@debian.org>
+Description: 
+ iptux      - intranet communication tool for Linux
+Closes: 731665
+Changes: 
+ iptux (0.6.1-2) unstable; urgency=low
+ .
+   * New upstream release. (Closes: #731665)
+   * debian/watch: Upstream has moved to https://github.com/iptux-src/iptux/
+   * Bump debhelper compatibility to 9
+   * Update Standards-Version to 3.9.5
+   * Delete leftover po/*.gmo and src/uninstall/Makefile
+   * Update debian/copyright with new information, and change license to
+     from GPL-2 to GPL-2+ according to src/HelpDialog.cpp
+   * Add description in DEP-3 format to 01-desktop_encoding.patch
+   * Add myself to the list of Uploaders
+Checksums-Sha1: 
+ 89e99d1d012fbf3f4b870ed460ee4b00782e30dc 216616 iptux_0.6.1-2_i386.deb
+Checksums-Sha256: 
+ 3f5b212e629085da3669383aab61e63839728d3964ba16198f03ea7187b4b857 216616 iptux_0.6.1-2_i386.deb
+Files: 
+ e9176364985b39cc4cc58feebc0bf2bf 216616 net optional iptux_0.6.1-2_i386.deb

@@ -1,0 +1,1477 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing aclocal-1.14$/;"	m
+ACLOCAL	uninstall/Makefile	/^ACLOCAL = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing aclocal-1.14$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	uninstall/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	uninstall/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CPPFLAGS	Makefile	/^AM_CPPFLAGS = $(all_includes) -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   -pthread -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/i386-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng12 -I\/usr\/include\/harfbuzz   -pthread -I\/usr\/include\/gconf\/2 -I\/usr\/include\/dbus-1.0 -I\/usr\/lib\/i386-linux-gnu\/dbus-1.0\/include -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   $/;"	m
+AM_CPPFLAGS	uninstall/Makefile	/^AM_CPPFLAGS = $(all_includes)$/;"	m
+AM_CXXFLAGS	Makefile	/^AM_CXXFLAGS = -Wall$/;"	m
+AM_CXXFLAGS	uninstall/Makefile	/^AM_CXXFLAGS = -Wall$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	uninstall/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_V_CXX	Makefile	/^AM_V_CXX = $(am__v_CXX_$(V))$/;"	m
+AM_V_CXX	uninstall/Makefile	/^AM_V_CXX = $(am__v_CXX_$(V))$/;"	m
+AM_V_CXXLD	Makefile	/^AM_V_CXXLD = $(am__v_CXXLD_$(V))$/;"	m
+AM_V_CXXLD	uninstall/Makefile	/^AM_V_CXXLD = $(am__v_CXXLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	uninstall/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	uninstall/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	uninstall/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+ANALOGFS_H	AnalogFS.h	14;"	d
+ATOM_OBJECT	deplib.h	29;"	d
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing autoconf$/;"	m
+AUTOCONF	uninstall/Makefile	/^AUTOCONF = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing autoheader$/;"	m
+AUTOHEADER	uninstall/Makefile	/^AUTOHEADER = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing automake-1.14$/;"	m
+AUTOMAKE	uninstall/Makefile	/^AUTOMAKE = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing automake-1.14$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	uninstall/Makefile	/^AWK = gawk$/;"	m
+AboutEntry	HelpDialog.cpp	/^void HelpDialog::AboutEntry()$/;"	f	class:HelpDialog
+AddFolder	ShareFile.cpp	/^void ShareFile::AddFolder(ShareFile *sfile)$/;"	f	class:ShareFile
+AddGconfNotify	ProgramData.cpp	/^void ProgramData::AddGconfNotify()$/;"	f	class:ProgramData
+AddNewIcon	DataSettings.cpp	/^void DataSettings::AddNewIcon(GtkWidget *button, GData **widset)$/;"	f	class:DataSettings
+AddNewIcon	RevisePal.cpp	/^void RevisePal::AddNewIcon(GtkWidget *button, GData **widset)$/;"	f	class:RevisePal
+AddRegular	ShareFile.cpp	/^void ShareFile::AddRegular(ShareFile *sfile)$/;"	f	class:ShareFile
+AdjustSensitive	DataSettings.cpp	/^void DataSettings::AdjustSensitive(GtkWidget *chkbutton, GtkWidget *widget)$/;"	f	class:DataSettings
+AdjustVolume	DataSettings.cpp	/^void DataSettings::AdjustVolume(GtkWidget *hscale)$/;"	f	class:DataSettings
+AdjustVolume	SoundSystem.cpp	/^void SoundSystem::AdjustVolume(double value)$/;"	f	class:SoundSystem
+AlterStatusIconMode	StatusIcon.cpp	/^void StatusIcon::AlterStatusIconMode()$/;"	f	class:StatusIcon
+AlterWindowMode	MainWindow.cpp	/^void MainWindow::AlterWindowMode()$/;"	f	class:MainWindow
+AnalogFS	AnalogFS.cpp	/^AnalogFS::AnalogFS()$/;"	f	class:AnalogFS
+AnalogFS	AnalogFS.h	/^class AnalogFS {$/;"	c
+ApplyReviseData	RevisePal.cpp	/^void RevisePal::ApplyReviseData()$/;"	f	class:RevisePal
+ApplySharedData	ShareFile.cpp	/^void ShareFile::ApplySharedData()$/;"	f	class:ShareFile
+AskSharedFiles	DialogPeer.cpp	/^void DialogPeer::AskSharedFiles(GroupInfo *grpinf)$/;"	f	class:DialogPeer
+AskSharedFiles	MainWindow.cpp	/^void MainWindow::AskSharedFiles(GroupInfo *grpinf)$/;"	f	class:MainWindow
+AssertPalOnline	UdpData.cpp	/^PalInfo *UdpData::AssertPalOnline()$/;"	f	class:UdpData
+AttachEnclosure	DialogBase.cpp	/^void DialogBase::AttachEnclosure(const GSList *list)$/;"	f	class:DialogBase
+AttachFileToPrivate	CoreThread.cpp	/^void CoreThread::AttachFileToPrivate(FileInfo *file)$/;"	f	class:CoreThread
+AttachFileToPublic	CoreThread.cpp	/^void CoreThread::AttachFileToPublic(FileInfo *file)$/;"	f	class:CoreThread
+AttachFolder	DialogBase.cpp	/^void DialogBase::AttachFolder(DialogBase *dlgpr)$/;"	f	class:DialogBase
+AttachItemToBlacklist	CoreThread.cpp	/^void CoreThread::AttachItemToBlacklist(in_addr_t ipv4)$/;"	f	class:CoreThread
+AttachItemToPaltree	MainWindow.cpp	/^void MainWindow::AttachItemToPaltree(in_addr_t ipv4)$/;"	f	class:MainWindow
+AttachPalBroadcastItem	CoreThread.cpp	/^GroupInfo *CoreThread::AttachPalBroadcastItem(PalInfo *pal)$/;"	f	class:CoreThread
+AttachPalGroupItem	CoreThread.cpp	/^GroupInfo *CoreThread::AttachPalGroupItem(PalInfo *pal)$/;"	f	class:CoreThread
+AttachPalRegularItem	CoreThread.cpp	/^GroupInfo *CoreThread::AttachPalRegularItem(PalInfo *pal)$/;"	f	class:CoreThread
+AttachPalSegmentItem	CoreThread.cpp	/^GroupInfo *CoreThread::AttachPalSegmentItem(PalInfo *pal)$/;"	f	class:CoreThread
+AttachPalToGroupInfoItem	CoreThread.cpp	/^void CoreThread::AttachPalToGroupInfoItem(GroupInfo *grpinf, PalInfo *pal)$/;"	f	class:CoreThread
+AttachPalToList	CoreThread.cpp	/^void CoreThread::AttachPalToList(PalInfo *pal)$/;"	f	class:CoreThread
+AttachRegular	DialogBase.cpp	/^void DialogBase::AttachRegular(DialogBase *dlgpr)$/;"	f	class:DialogBase
+AttachSharedFiles	ShareFile.cpp	/^void ShareFile::AttachSharedFiles(GSList *list)$/;"	f	class:ShareFile
+BcstFileInfo	SendFile.cpp	/^void SendFile::BcstFileInfo(GSList *plist, uint32_t opttype, GSList *filist)$/;"	f	class:SendFile
+BcstFileInfoEntry	SendFile.cpp	/^void SendFile::BcstFileInfoEntry(GSList *plist, GSList *flist)$/;"	f	class:SendFile
+BlacklistContainItem	CoreThread.cpp	/^bool CoreThread::BlacklistContainItem(in_addr_t ipv4)$/;"	f	class:CoreThread
+BlinkGroupItemToPaltree	MainWindow.cpp	/^void MainWindow::BlinkGroupItemToPaltree(GtkTreeModel *model, GtkTreeIter *iter,$/;"	f	class:MainWindow
+BroadCast	Command.cpp	/^void Command::BroadCast(int sock)$/;"	f	class:Command
+BroadcastEnclosureMsg	DialogBase.h	/^        virtual void BroadcastEnclosureMsg(GSList *list) {};$/;"	f	class:DialogBase
+BroadcastEnclosureMsg	DialogGroup.cpp	/^void DialogGroup::BroadcastEnclosureMsg(GSList *list)$/;"	f	class:DialogGroup
+BroadcastEnclosureMsg	DialogPeer.cpp	/^void DialogPeer::BroadcastEnclosureMsg(GSList *list)$/;"	f	class:DialogPeer
+BroadcastTextMsg	DialogGroup.cpp	/^void DialogGroup::BroadcastTextMsg(const gchar *msg)$/;"	f	class:DialogGroup
+CALLBACK_H	callback.h	13;"	d
+CATALOGS	Makefile	/^CATALOGS =  de.gmo en_GB.gmo es.gmo pl.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CATALOGS	uninstall/Makefile	/^CATALOGS =  de.gmo en_GB.gmo es.gmo pl.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CATOBJEXT	Makefile	/^CATOBJEXT = .gmo$/;"	m
+CATOBJEXT	uninstall/Makefile	/^CATOBJEXT = .gmo$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	uninstall/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CCDEPMODE	uninstall/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CDPATH	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+CDPATH	uninstall/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security$/;"	m
+CFLAGS	uninstall/Makefile	/^CFLAGS = -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security$/;"	m
+COMMAND_H	Command.h	13;"	d
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	uninstall/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	uninstall/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	uninstall/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CORETHREAD_H	CoreThread.h	18;"	d
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	uninstall/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = -D_FORTIFY_SOURCE=2$/;"	m
+CPPFLAGS	uninstall/Makefile	/^CPPFLAGS = -D_FORTIFY_SOURCE=2$/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	uninstall/Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXX	uninstall/Makefile	/^CXX = g++$/;"	m
+CXXCOMPILE	Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXCOMPILE	uninstall/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=none$/;"	m
+CXXDEPMODE	uninstall/Makefile	/^CXXDEPMODE = depmode=none$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security$/;"	m
+CXXFLAGS	uninstall/Makefile	/^CXXFLAGS = -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security$/;"	m
+CXXLD	Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLD	uninstall/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLINK	Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CXXLINK	uninstall/Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	uninstall/Makefile	/^CYGPATH_W = echo$/;"	m
+CellEditText	DataSettings.cpp	/^void DataSettings::CellEditText(GtkCellRendererText *renderer, gchar *path,$/;"	f	class:DataSettings
+CheckIconTheme	ProgramData.cpp	/^void ProgramData::CheckIconTheme()$/;"	f	class:ProgramData
+ChipData	mess.cpp	/^ChipData::ChipData():type(MESSAGE_CONTENT_TYPE_STRING), data(NULL)$/;"	f	class:ChipData
+ChipData	mess.h	/^class ChipData {$/;"	c
+ChoosePhoto	DataSettings.cpp	/^void DataSettings::ChoosePhoto(GData **widset)$/;"	f	class:DataSettings
+ChooserResetSndtree	DataSettings.cpp	/^void DataSettings::ChooserResetSndtree(GtkWidget *chooser, GData **widset)$/;"	f	class:DataSettings
+ClearAllItemFromPaltree	MainWindow.cpp	/^void MainWindow::ClearAllItemFromPaltree()$/;"	f	class:MainWindow
+ClearAllPalData	DialogGroup.cpp	/^void DialogGroup::ClearAllPalData()$/;"	f	class:DialogGroup
+ClearAllPalData	DialogPeer.cpp	/^void DialogPeer::ClearAllPalData()$/;"	f	class:DialogPeer
+ClearAllPalFromList	CoreThread.cpp	/^void CoreThread::ClearAllPalFromList()$/;"	f	class:CoreThread
+ClearBlacklist	CoreThread.cpp	/^void CoreThread::ClearBlacklist()$/;"	f	class:CoreThread
+ClearFileFromPrivate	CoreThread.cpp	/^void CoreThread::ClearFileFromPrivate()$/;"	f	class:CoreThread
+ClearFileFromPublic	CoreThread.cpp	/^void CoreThread::ClearFileFromPublic()$/;"	f	class:CoreThread
+ClearHistoryBuffer	DialogBase.cpp	/^void DialogBase::ClearHistoryBuffer(DialogBase *dlgpr)$/;"	f	class:DialogBase
+ClearHistoryTextView	DialogBase.cpp	/^void DialogBase::ClearHistoryTextView()$/;"	f	class:DialogBase
+ClearNetSegment	DataSettings.cpp	/^void DataSettings::ClearNetSegment(GData **mdlset)$/;"	f	class:DataSettings
+ClearNotify	DialogBase.cpp	/^gboolean DialogBase::ClearNotify(GtkWidget *window, GdkEventConfigure *event)$/;"	f	class:DialogBase
+ClearPallistEntry	MainWindow.cpp	/^gboolean MainWindow::ClearPallistEntry(GtkWidget *entry, GdkEventKey *event)$/;"	f	class:MainWindow
+ClearPassword	ShareFile.cpp	/^void ShareFile::ClearPassword(GData **widset)$/;"	f	class:ShareFile
+ClearSublayer	CoreThread.cpp	/^void CoreThread::ClearSublayer()$/;"	f	class:CoreThread
+ClearSublayer	DataSettings.cpp	/^void DataSettings::ClearSublayer()$/;"	f	class:DataSettings
+ClearSublayer	MainWindow.cpp	/^void MainWindow::ClearSublayer()$/;"	f	class:MainWindow
+ClearSublayer	RevisePal.cpp	/^void RevisePal::ClearSublayer()$/;"	f	class:RevisePal
+ClearSublayer	ShareFile.cpp	/^void ShareFile::ClearSublayer()$/;"	f	class:ShareFile
+ClearSublayerGeneral	DialogBase.cpp	/^void DialogBase::ClearSublayerGeneral()$/;"	f	class:DialogBase
+ClearTransTask	MainWindow.cpp	/^void MainWindow::ClearTransTask(GtkTreeModel *model)$/;"	f	class:MainWindow
+ClearTransWindow	MainWindow.cpp	/^void MainWindow::ClearTransWindow(GData **widset)$/;"	f	class:MainWindow
+ClickAddIpseg	DataSettings.cpp	/^void DataSettings::ClickAddIpseg(GData **widset)$/;"	f	class:DataSettings
+ClickDelIpseg	DataSettings.cpp	/^void DataSettings::ClickDelIpseg(GData **widset)$/;"	f	class:DataSettings
+Command	Command.cpp	/^Command::Command():size(0)$/;"	f	class:Command
+Command	Command.h	/^class Command {$/;"	c
+CommunicateLog	LogSystem.cpp	/^void LogSystem::CommunicateLog(MsgPara *msgpara, const char *fmt, ...)$/;"	f	class:LogSystem
+ConvertEncode	Command.cpp	/^void Command::ConvertEncode(const char *encode)$/;"	f	class:Command
+ConvertEncode	UdpData.cpp	/^void UdpData::ConvertEncode(const char *enc)$/;"	f	class:UdpData
+CopyNetSegment	ProgramData.cpp	/^GSList *ProgramData::CopyNetSegment()$/;"	f	class:ProgramData
+CoreThread	CoreThread.cpp	/^CoreThread::CoreThread():tcpsock(-1), udpsock(-1), server(true),$/;"	f	class:CoreThread
+CoreThread	CoreThread.h	/^class CoreThread {$/;"	c
+CoreThreadEntry	CoreThread.cpp	/^void CoreThread::CoreThreadEntry()$/;"	f	class:CoreThread
+CreateAboutDialog	HelpDialog.cpp	/^GtkWidget *HelpDialog::CreateAboutDialog()$/;"	f	class:HelpDialog
+CreateAllArea	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreateAllArea()$/;"	f	class:DialogGroup
+CreateAllArea	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateAllArea()$/;"	f	class:DialogPeer
+CreateAllArea	MainWindow.cpp	/^GtkWidget *MainWindow::CreateAllArea()$/;"	f	class:MainWindow
+CreateAllArea	RevisePal.cpp	/^GtkWidget *RevisePal::CreateAllArea()$/;"	f	class:RevisePal
+CreateAllArea	ShareFile.cpp	/^GtkWidget *ShareFile::CreateAllArea()$/;"	f	class:ShareFile
+CreateArchiveChooser	DataSettings.cpp	/^GtkWidget *DataSettings::CreateArchiveChooser()$/;"	f	class:DataSettings
+CreateCommand	Command.cpp	/^void Command::CreateCommand(uint32_t command, const char *attach)$/;"	f	class:Command
+CreateCursor	ProgramData.cpp	/^void ProgramData::CreateCursor()$/;"	f	class:ProgramData
+CreateFileArea	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileArea()$/;"	f	class:DialogPeer
+CreateFileMenu	DialogBase.cpp	/^GtkWidget *DialogBase::CreateFileMenu()$/;"	f	class:DialogBase
+CreateFileMenu	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileMenu()$/;"	f	class:DialogPeer
+CreateFileMenu	MainWindow.cpp	/^GtkWidget *MainWindow::CreateFileMenu()$/;"	f	class:MainWindow
+CreateFileModel	ShareFile.cpp	/^GtkTreeModel *ShareFile::CreateFileModel()$/;"	f	class:ShareFile
+CreateFileReceiveArea	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileReceiveArea()$/;"	f	class:DialogPeer
+CreateFileReceivedArea	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileReceivedArea()$/;"	f	class:DialogPeer
+CreateFileReceivedModel	DialogPeer.cpp	/^GtkTreeModel *DialogPeer::CreateFileReceivedModel()$/;"	f	class:DialogPeer
+CreateFileReceivedTree	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileReceivedTree(GtkTreeModel *model)$/;"	f	class:DialogPeer
+CreateFileSendArea	DialogBase.cpp	/^GtkWidget *DialogBase::CreateFileSendArea()$/;"	f	class:DialogBase
+CreateFileSendModel	DialogBase.cpp	/^GtkTreeModel *DialogBase::CreateFileSendModel()$/;"	f	class:DialogBase
+CreateFileSendTree	DialogBase.cpp	/^GtkWidget *DialogBase::CreateFileSendTree(GtkTreeModel *model)$/;"	f	class:DialogBase
+CreateFileToReceiveArea	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileToReceiveArea()$/;"	f	class:DialogPeer
+CreateFileToReceiveModel	DialogPeer.cpp	/^GtkTreeModel *DialogPeer::CreateFileToReceiveModel()$/;"	f	class:DialogPeer
+CreateFileToReceiveTree	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateFileToReceiveTree(GtkTreeModel *model)$/;"	f	class:DialogPeer
+CreateFileTree	ShareFile.cpp	/^GtkWidget *ShareFile::CreateFileTree(GtkTreeModel *model)$/;"	f	class:ShareFile
+CreateFontChooser	DataSettings.cpp	/^GtkWidget *DataSettings::CreateFontChooser()$/;"	f	class:DataSettings
+CreateHelpMenu	DialogBase.cpp	/^GtkWidget *DialogBase::CreateHelpMenu()$/;"	f	class:DialogBase
+CreateHelpMenu	MainWindow.cpp	/^GtkWidget *MainWindow::CreateHelpMenu()$/;"	f	class:MainWindow
+CreateHistoryArea	DialogBase.cpp	/^GtkWidget *DialogBase::CreateHistoryArea()$/;"	f	class:DialogBase
+CreateIconExtra	Command.cpp	/^void Command::CreateIconExtra()$/;"	f	class:Command
+CreateIconModel	DataSettings.cpp	/^GtkTreeModel *DataSettings::CreateIconModel()$/;"	f	class:DataSettings
+CreateIconModel	RevisePal.cpp	/^GtkTreeModel *RevisePal::CreateIconModel()$/;"	f	class:RevisePal
+CreateIconTree	DataSettings.cpp	/^GtkWidget *DataSettings::CreateIconTree(GtkTreeModel *model)$/;"	f	class:DataSettings
+CreateIconTree	RevisePal.cpp	/^GtkWidget *RevisePal::CreateIconTree(GtkTreeModel *model)$/;"	f	class:RevisePal
+CreateInfoArea	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateInfoArea()$/;"	f	class:DialogPeer
+CreateInputArea	DetectPal.cpp	/^GtkWidget *DetectPal::CreateInputArea()$/;"	f	class:DetectPal
+CreateInputArea	DialogBase.cpp	/^GtkWidget *DialogBase::CreateInputArea()$/;"	f	class:DialogBase
+CreateIpmsgExtra	Command.cpp	/^void Command::CreateIpmsgExtra(const char *extra, const char *encode)$/;"	f	class:Command
+CreateIptuxExtra	Command.cpp	/^void Command::CreateIptuxExtra(const char *encode)$/;"	f	class:Command
+CreateMainDialog	DataSettings.cpp	/^GtkWidget *DataSettings::CreateMainDialog(GtkWidget *parent)$/;"	f	class:DataSettings
+CreateMainDialog	DetectPal.cpp	/^GtkWidget *DetectPal::CreateMainDialog(GtkWidget *parent)$/;"	f	class:DetectPal
+CreateMainDialog	RevisePal.cpp	/^GtkWidget *RevisePal::CreateMainDialog()$/;"	f	class:RevisePal
+CreateMainDialog	ShareFile.cpp	/^GtkWidget *ShareFile::CreateMainDialog(GtkWidget *parent)$/;"	f	class:ShareFile
+CreateMainWindow	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreateMainWindow()$/;"	f	class:DialogGroup
+CreateMainWindow	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateMainWindow()$/;"	f	class:DialogPeer
+CreateMainWindow	MainWindow.cpp	/^GtkWidget *MainWindow::CreateMainWindow()$/;"	f	class:MainWindow
+CreateMemberArea	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreateMemberArea()$/;"	f	class:DialogGroup
+CreateMemberModel	DialogGroup.cpp	/^GtkTreeModel *DialogGroup::CreateMemberModel()$/;"	f	class:DialogGroup
+CreateMemberTree	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreateMemberTree(GtkTreeModel *model)$/;"	f	class:DialogGroup
+CreateMenuBar	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreateMenuBar()$/;"	f	class:DialogGroup
+CreateMenuBar	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateMenuBar()$/;"	f	class:DialogPeer
+CreateMenuBar	MainWindow.cpp	/^GtkWidget *MainWindow::CreateMenuBar()$/;"	f	class:MainWindow
+CreateMoreDialog	HelpDialog.cpp	/^GtkWidget *HelpDialog::CreateMoreDialog()$/;"	f	class:HelpDialog
+CreateNetwork	DataSettings.cpp	/^GtkWidget *DataSettings::CreateNetwork()$/;"	f	class:DataSettings
+CreateNetworkModel	DataSettings.cpp	/^GtkTreeModel *DataSettings::CreateNetworkModel()$/;"	f	class:DataSettings
+CreateNetworkTree	DataSettings.cpp	/^GtkWidget *DataSettings::CreateNetworkTree(GtkTreeModel *model)$/;"	f	class:DataSettings
+CreatePalInfo	UdpData.cpp	/^PalInfo *UdpData::CreatePalInfo()$/;"	f	class:UdpData
+CreatePallistArea	MainWindow.cpp	/^GtkWidget *MainWindow::CreatePallistArea()$/;"	f	class:MainWindow
+CreatePallistModel	MainWindow.cpp	/^GtkTreeModel *MainWindow::CreatePallistModel()$/;"	f	class:MainWindow
+CreatePallistTree	MainWindow.cpp	/^GtkWidget *MainWindow::CreatePallistTree(GtkTreeModel *model)$/;"	f	class:MainWindow
+CreatePaltreeArea	MainWindow.cpp	/^GtkWidget *MainWindow::CreatePaltreeArea()$/;"	f	class:MainWindow
+CreatePaltreeModel	MainWindow.cpp	/^GtkTreeModel *MainWindow::CreatePaltreeModel()$/;"	f	class:MainWindow
+CreatePaltreePopupMenu	MainWindow.cpp	/^GtkWidget *MainWindow::CreatePaltreePopupMenu(GroupInfo *grpinf)$/;"	f	class:MainWindow
+CreatePaltreeTree	MainWindow.cpp	/^GtkWidget *MainWindow::CreatePaltreeTree(GtkTreeModel *model)$/;"	f	class:MainWindow
+CreatePersonal	DataSettings.cpp	/^GtkWidget *DataSettings::CreatePersonal()$/;"	f	class:DataSettings
+CreatePopupMenu	DataSettings.cpp	/^GtkWidget *DataSettings::CreatePopupMenu(GtkTreeModel *model)$/;"	f	class:DataSettings
+CreatePopupMenu	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreatePopupMenu(GtkTreeModel *model)$/;"	f	class:DialogGroup
+CreatePopupMenu	StatusIcon.cpp	/^GtkWidget *StatusIcon::CreatePopupMenu(GtkStatusIcon *statusicon)$/;"	f	class:StatusIcon
+CreateRegex	ProgramData.cpp	/^void ProgramData::CreateRegex()$/;"	f	class:ProgramData
+CreateSndChooser	DataSettings.cpp	/^GtkWidget *DataSettings::CreateSndChooser()$/;"	f	class:DataSettings
+CreateSndModel	DataSettings.cpp	/^GtkTreeModel *DataSettings::CreateSndModel()$/;"	f	class:DataSettings
+CreateSndTree	DataSettings.cpp	/^GtkWidget *DataSettings::CreateSndTree(GtkTreeModel *model)$/;"	f	class:DataSettings
+CreateSound	DataSettings.cpp	/^GtkWidget *DataSettings::CreateSound()$/;"	f	class:DataSettings
+CreateStatusIcon	StatusIcon.cpp	/^void StatusIcon::CreateStatusIcon()$/;"	f	class:StatusIcon
+CreateSystem	DataSettings.cpp	/^GtkWidget *DataSettings::CreateSystem()$/;"	f	class:DataSettings
+CreateTagTable	ProgramData.cpp	/^void ProgramData::CreateTagTable()$/;"	f	class:ProgramData
+CreateToolBar	MainWindow.cpp	/^GtkWidget *MainWindow::CreateToolBar()$/;"	f	class:MainWindow
+CreateToolMenu	DialogGroup.cpp	/^GtkWidget *DialogGroup::CreateToolMenu()$/;"	f	class:DialogGroup
+CreateToolMenu	DialogPeer.cpp	/^GtkWidget *DialogPeer::CreateToolMenu()$/;"	f	class:DialogPeer
+CreateToolMenu	MainWindow.cpp	/^GtkWidget *MainWindow::CreateToolMenu()$/;"	f	class:MainWindow
+CreateTransArea	MainWindow.cpp	/^GtkWidget *MainWindow::CreateTransArea()$/;"	f	class:MainWindow
+CreateTransModel	MainWindow.cpp	/^GtkTreeModel *MainWindow::CreateTransModel()$/;"	f	class:MainWindow
+CreateTransPopupMenu	MainWindow.cpp	/^GtkWidget *MainWindow::CreateTransPopupMenu(GtkTreeModel *model)$/;"	f	class:MainWindow
+CreateTransTree	MainWindow.cpp	/^GtkWidget *MainWindow::CreateTransTree(GtkTreeModel *model)$/;"	f	class:MainWindow
+CreateTransWindow	MainWindow.cpp	/^GtkWidget *MainWindow::CreateTransWindow()$/;"	f	class:MainWindow
+CreateUIPara	RecvFileData.cpp	/^void RecvFileData::CreateUIPara()$/;"	f	class:RecvFileData
+CreateUIPara	SendFileData.cpp	/^void SendFileData::CreateUIPara()$/;"	f	class:SendFileData
+CreateWindow	MainWindow.cpp	/^void MainWindow::CreateWindow()$/;"	f	class:MainWindow
+DATADIRNAME	Makefile	/^DATADIRNAME = share$/;"	m
+DATADIRNAME	uninstall/Makefile	/^DATADIRNAME = share$/;"	m
+DATASETTINGS_H	DataSettings.h	13;"	d
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	uninstall/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	uninstall/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	uninstall/Makefile	/^DEPDIR = .deps$/;"	m
+DEPLIB_H	deplib.h	13;"	d
+DETECTPAL_H	DetectPal.h	13;"	d
+DIALOGBASE_H	DialogBase.h	16;"	d
+DIALOGGROUP_H	DialogGroup.h	13;"	d
+DIALOGPEER_H	DialogPeer.h	14;"	d
+DIALOG_H	dialog.h	13;"	d
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	uninstall/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	uninstall/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(iptux_SOURCES)$/;"	m
+DIST_SOURCES	uninstall/Makefile	/^DIST_SOURCES = $(ihateiptux_SOURCES)$/;"	m
+DataSettings	DataSettings.cpp	/^DataSettings::DataSettings():widset(NULL), mdlset(NULL)$/;"	f	class:DataSettings
+DataSettings	DataSettings.h	/^class DataSettings {$/;"	c
+DelFileFromPrivate	CoreThread.cpp	/^void CoreThread::DelFileFromPrivate(uint32_t fileid)$/;"	f	class:CoreThread
+DelFileFromPublic	CoreThread.cpp	/^void CoreThread::DelFileFromPublic(uint32_t fileid)$/;"	f	class:CoreThread
+DelItemFromPaltree	MainWindow.cpp	/^void MainWindow::DelItemFromPaltree(in_addr_t ipv4)$/;"	f	class:MainWindow
+DelPalData	DialogGroup.cpp	/^void DialogGroup::DelPalData(PalInfo *pal)$/;"	f	class:DialogGroup
+DelPalData	DialogPeer.cpp	/^void DialogPeer::DelPalData(PalInfo *pal)$/;"	f	class:DialogPeer
+DelPalFromGroupInfoItem	CoreThread.cpp	/^void CoreThread::DelPalFromGroupInfoItem(GroupInfo *grpinf, PalInfo *pal)$/;"	f	class:CoreThread
+DelPalFromList	CoreThread.cpp	/^void CoreThread::DelPalFromList(in_addr_t ipv4)$/;"	f	class:CoreThread
+DeleteFiles	ShareFile.cpp	/^void ShareFile::DeleteFiles(GData **widset)$/;"	f	class:ShareFile
+DeletePalItem	MainWindow.cpp	/^void MainWindow::DeletePalItem(GroupInfo *grpinf)$/;"	f	class:MainWindow
+DetectEntry	DetectPal.cpp	/^void DetectPal::DetectEntry(GtkWidget *parent)$/;"	f	class:DetectPal
+DetectPal	DetectPal.cpp	/^DetectPal::DetectPal():widset(NULL)$/;"	f	class:DetectPal
+DetectPal	DetectPal.h	/^class DetectPal {$/;"	c
+DialUp	Command.cpp	/^void Command::DialUp(int sock)$/;"	f	class:Command
+DialogBase	DialogBase.cpp	/^DialogBase::DialogBase(GroupInfo *grp)$/;"	f	class:DialogBase
+DialogBase	DialogBase.h	/^class DialogBase: public SessionAbstract {$/;"	c
+DialogDestory	DialogBase.cpp	/^void DialogBase::DialogDestory(DialogBase *dialog)$/;"	f	class:DialogBase
+DialogDestroy	HelpDialog.cpp	/^void HelpDialog::DialogDestroy(GtkWidget **dialog)$/;"	f	class:HelpDialog
+DialogGroup	DialogGroup.cpp	/^DialogGroup::DialogGroup(GroupInfo *grp)$/;"	f	class:DialogGroup
+DialogGroup	DialogGroup.h	/^class DialogGroup: public DialogBase {$/;"	c
+DialogOpenEmail	HelpDialog.cpp	/^void HelpDialog::DialogOpenEmail(GtkWidget *dialog, const gchar *link)$/;"	f	class:HelpDialog
+DialogOpenUrl	HelpDialog.cpp	/^void HelpDialog::DialogOpenUrl(GtkWidget *dialog, const gchar *link)$/;"	f	class:HelpDialog
+DialogPeer	DialogPeer.cpp	/^DialogPeer::DialogPeer(GroupInfo *grp):DialogBase(grp),$/;"	f	class:DialogPeer
+DialogPeer	DialogPeer.h	/^class DialogPeer: public DialogBase {$/;"	c
+DispatchTcpData	TcpData.cpp	/^void TcpData::DispatchTcpData()$/;"	f	class:TcpData
+DispatchUdpData	UdpData.cpp	/^void UdpData::DispatchUdpData()$/;"	f	class:UdpData
+DivideFileinfo	RecvFile.cpp	/^FileInfo *RecvFile::DivideFileinfo(char **extra)$/;"	f	class:RecvFile
+DragDataReceived	DialogBase.cpp	/^void DialogBase::DragDataReceived(DialogBase *dlgpr, GdkDragContext *context,$/;"	f	class:DialogBase
+DragDataReceived	ShareFile.cpp	/^void ShareFile::DragDataReceived(ShareFile *sfile, GdkDragContext *context,$/;"	f	class:ShareFile
+DragPicReceived	DialogPeer.cpp	/^void DialogPeer::DragPicReceived(DialogPeer *dlgpr, GdkDragContext *context,$/;"	f	class:DialogPeer
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	uninstall/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	uninstall/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	uninstall/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	uninstall/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	uninstall/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	uninstall/Makefile	/^EXEEXT = $/;"	m
+EncosureTreePopup	DialogBase.cpp	/^gint DialogBase::EncosureTreePopup(GtkWidget *treeview,GdkEvent *event)$/;"	f	class:DialogBase
+EosMessageOccur	SoundSystem.cpp	/^void SoundSystem::EosMessageOccur(SoundSystem *sndsys)$/;"	f	class:SoundSystem
+ErrorMessageOccur	SoundSystem.cpp	/^void SoundSystem::ErrorMessageOccur(SoundSystem *sndsys, GstMessage *message)$/;"	f	class:SoundSystem
+ExportNetSegment	DataSettings.cpp	/^void DataSettings::ExportNetSegment(DataSettings *dset)$/;"	f	class:DataSettings
+FILELIST_SEPARATOR	ipmsg.h	149;"	d
+FLAG_CLR	utils.h	25;"	d
+FLAG_ISSET	utils.h	23;"	d
+FLAG_SET	utils.h	24;"	d
+FeedbackError	Command.cpp	/^void Command::FeedbackError(PalInfo *pal, GroupBelongType btype, const char *error)$/;"	f	class:Command
+FeedbackMsg	DialogBase.cpp	/^void DialogBase::FeedbackMsg(const gchar *msg)$/;"	f	class:DialogBase
+FeedbackMsg	DialogPeer.cpp	/^void DialogPeer::FeedbackMsg(const GSList *dtlist)$/;"	f	class:DialogPeer
+FileInfo	mess.cpp	/^FileInfo::FileInfo():fileid(0), packetn(0), fileattr(0), filesize(-1),$/;"	f	class:FileInfo
+FileInfo	mess.h	/^class FileInfo {$/;"	c
+FileTreeCompareFunc	ShareFile.cpp	/^gint ShareFile::FileTreeCompareFunc(GtkTreeModel *model, GtkTreeIter *a,$/;"	f	class:ShareFile
+FillFileModel	ShareFile.cpp	/^void ShareFile::FillFileModel(GtkTreeModel *model)$/;"	f	class:ShareFile
+FillGroupInfoToPaltree	MainWindow.cpp	/^void MainWindow::FillGroupInfoToPaltree(GtkTreeModel *model, GtkTreeIter *iter,$/;"	f	class:MainWindow
+FillIconModel	DataSettings.cpp	/^void DataSettings::FillIconModel(GtkTreeModel *model)$/;"	f	class:DataSettings
+FillIconModel	RevisePal.cpp	/^void RevisePal::FillIconModel(GtkTreeModel *model)$/;"	f	class:RevisePal
+FillMemberModel	DialogGroup.cpp	/^void DialogGroup::FillMemberModel(GtkTreeModel *model)$/;"	f	class:DialogGroup
+FillNetworkModel	DataSettings.cpp	/^void DataSettings::FillNetworkModel(GtkTreeModel *model)$/;"	f	class:DataSettings
+FillPalInfoToBuffer	DialogPeer.cpp	/^void DialogPeer::FillPalInfoToBuffer(GtkTextBuffer *buffer, PalInfo *pal)$/;"	f	class:DialogPeer
+FillPalInfoToBuffer	MainWindow.cpp	/^void MainWindow::FillPalInfoToBuffer(GtkTextBuffer *buffer, PalInfo *pal)$/;"	f	class:MainWindow
+FillSndModel	DataSettings.cpp	/^void DataSettings::FillSndModel(GtkTreeModel *model)$/;"	f	class:DataSettings
+FindNetSegDescription	ProgramData.cpp	/^char *ProgramData::FindNetSegDescription(in_addr_t ipv4)$/;"	f	class:ProgramData
+GCONF_CFLAGS	Makefile	/^GCONF_CFLAGS = -pthread -I\/usr\/include\/gconf\/2 -I\/usr\/include\/dbus-1.0 -I\/usr\/lib\/i386-linux-gnu\/dbus-1.0\/include -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include  $/;"	m
+GCONF_CFLAGS	uninstall/Makefile	/^GCONF_CFLAGS = -pthread -I\/usr\/include\/gconf\/2 -I\/usr\/include\/dbus-1.0 -I\/usr\/lib\/i386-linux-gnu\/dbus-1.0\/include -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include  $/;"	m
+GCONF_LIBS	Makefile	/^GCONF_LIBS = -lgconf-2 -lglib-2.0  $/;"	m
+GCONF_LIBS	uninstall/Makefile	/^GCONF_LIBS = -lgconf-2 -lglib-2.0  $/;"	m
+GCONF_PATH	deplib.h	34;"	d
+GETTEXT_PACKAGE	Makefile	/^GETTEXT_PACKAGE = iptux$/;"	m
+GETTEXT_PACKAGE	uninstall/Makefile	/^GETTEXT_PACKAGE = iptux$/;"	m
+GET_MODE	ipmsg.h	159;"	d
+GET_OPT	ipmsg.h	160;"	d
+GINT	deplib.h	32;"	d
+GLIB_CFLAGS	Makefile	/^GLIB_CFLAGS = -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include  $/;"	m
+GLIB_CFLAGS	uninstall/Makefile	/^GLIB_CFLAGS = -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include  $/;"	m
+GLIB_LIBS	Makefile	/^GLIB_LIBS = -lglib-2.0  $/;"	m
+GLIB_LIBS	uninstall/Makefile	/^GLIB_LIBS = -lglib-2.0  $/;"	m
+GMOFILES	Makefile	/^GMOFILES =  de.gmo en_GB.gmo es.gmo pl.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMOFILES	uninstall/Makefile	/^GMOFILES =  de.gmo en_GB.gmo es.gmo pl.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	uninstall/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	uninstall/Makefile	/^GREP = \/bin\/grep$/;"	m
+GROUP_BELONG_TYPE_BROADCAST	mess.h	/^        GROUP_BELONG_TYPE_BROADCAST     \/\/\/< 广播$/;"	e
+GROUP_BELONG_TYPE_GROUP	mess.h	/^        GROUP_BELONG_TYPE_GROUP,        \/\/\/< 分组$/;"	e
+GROUP_BELONG_TYPE_REGULAR	mess.h	/^        GROUP_BELONG_TYPE_REGULAR,      \/\/\/< 常规$/;"	e
+GROUP_BELONG_TYPE_SEGMENT	mess.h	/^        GROUP_BELONG_TYPE_SEGMENT,      \/\/\/< 分段$/;"	e
+GST_CFLAGS	Makefile	/^GST_CFLAGS = $/;"	m
+GST_CFLAGS	uninstall/Makefile	/^GST_CFLAGS = $/;"	m
+GST_LIBS	Makefile	/^GST_LIBS = $/;"	m
+GST_LIBS	uninstall/Makefile	/^GST_LIBS = $/;"	m
+GTHREAD_CFLAGS	Makefile	/^GTHREAD_CFLAGS = -pthread -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include  $/;"	m
+GTHREAD_CFLAGS	uninstall/Makefile	/^GTHREAD_CFLAGS = -pthread -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include  $/;"	m
+GTHREAD_LIBS	Makefile	/^GTHREAD_LIBS = -pthread -lgthread-2.0 -lglib-2.0  $/;"	m
+GTHREAD_LIBS	uninstall/Makefile	/^GTHREAD_LIBS = -pthread -lgthread-2.0 -lglib-2.0  $/;"	m
+GTK_CFLAGS	Makefile	/^GTK_CFLAGS = -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/i386-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng12 -I\/usr\/include\/harfbuzz  $/;"	m
+GTK_CFLAGS	uninstall/Makefile	/^GTK_CFLAGS = -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/i386-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng12 -I\/usr\/include\/harfbuzz  $/;"	m
+GTK_LIBS	Makefile	/^GTK_LIBS = -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lglib-2.0  $/;"	m
+GTK_LIBS	uninstall/Makefile	/^GTK_LIBS = -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lglib-2.0  $/;"	m
+GconfNotifyFunc	ProgramData.cpp	/^void ProgramData::GconfNotifyFunc(GConfClient *client, guint cnxnid,$/;"	f	class:ProgramData
+GetAccessPublicLimit	CoreThread.cpp	/^const char *CoreThread::GetAccessPublicLimit()$/;"	f	class:CoreThread
+GetFileFromAll	CoreThread.cpp	/^FileInfo *CoreThread::GetFileFromAll(uint32_t fileid)$/;"	f	class:CoreThread
+GetFileFromAllWithPacketN	CoreThread.cpp	/^FileInfo *CoreThread::GetFileFromAllWithPacketN(uint32_t packageNum,uint32_t filectime)$/;"	f	class:CoreThread
+GetMsglineHeadItem	CoreThread.cpp	/^GroupInfo *CoreThread::GetMsglineHeadItem()$/;"	f	class:CoreThread
+GetMsglineItems	CoreThread.cpp	/^guint CoreThread::GetMsglineItems()$/;"	f	class:CoreThread
+GetMutex	CoreThread.cpp	/^pthread_mutex_t *CoreThread::GetMutex()$/;"	f	class:CoreThread
+GetPalBroadcastItem	CoreThread.cpp	/^GroupInfo *CoreThread::GetPalBroadcastItem(PalInfo *pal)$/;"	f	class:CoreThread
+GetPalEnclosure	CoreThread.cpp	/^GSList *CoreThread::GetPalEnclosure(PalInfo *pal)$/;"	f	class:CoreThread
+GetPalEncode	UdpData.cpp	/^char *UdpData::GetPalEncode()$/;"	f	class:UdpData
+GetPalFromList	CoreThread.cpp	/^PalInfo *CoreThread::GetPalFromList(in_addr_t ipv4)$/;"	f	class:CoreThread
+GetPalGroup	UdpData.cpp	/^char *UdpData::GetPalGroup()$/;"	f	class:UdpData
+GetPalGroupItem	CoreThread.cpp	/^GroupInfo *CoreThread::GetPalGroupItem(PalInfo *pal)$/;"	f	class:CoreThread
+GetPalIcon	UdpData.cpp	/^char *UdpData::GetPalIcon()$/;"	f	class:UdpData
+GetPalList	CoreThread.cpp	/^GSList *CoreThread::GetPalList()$/;"	f	class:CoreThread
+GetPalPrevGroupItem	CoreThread.cpp	/^GroupInfo *CoreThread::GetPalPrevGroupItem(PalInfo *pal)$/;"	f	class:CoreThread
+GetPalRegularItem	CoreThread.cpp	/^GroupInfo *CoreThread::GetPalRegularItem(PalInfo *pal)$/;"	f	class:CoreThread
+GetPalSegmentItem	CoreThread.cpp	/^GroupInfo *CoreThread::GetPalSegmentItem(PalInfo *pal)$/;"	f	class:CoreThread
+GetPublicFileList	CoreThread.cpp	/^GSList *CoreThread::GetPublicFileList()$/;"	f	class:CoreThread
+GetSelPal	DialogBase.h	/^        virtual GSList *GetSelPal(){ return NULL;};$/;"	f	class:DialogBase
+GetSelPal	DialogGroup.cpp	/^GSList *DialogGroup::GetSelPal()$/;"	f	class:DialogGroup
+GetSelPal	DialogPeer.cpp	/^GSList *DialogPeer::GetSelPal()$/;"	f	class:DialogPeer
+GetTransFilePara	RecvFileData.cpp	/^GData **RecvFileData::GetTransFilePara()$/;"	f	class:RecvFileData
+GetTransFilePara	SendFileData.cpp	/^GData **SendFileData::GetTransFilePara()$/;"	f	class:SendFileData
+GoNextTreeModel	MainWindow.cpp	/^void MainWindow::GoNextTreeModel(MainWindow *mwin)$/;"	f	class:MainWindow
+GoPrevTreeModel	MainWindow.cpp	/^void MainWindow::GoPrevTreeModel(MainWindow *mwin)$/;"	f	class:MainWindow
+GroupBelongType	mess.h	/^}GroupBelongType;$/;"	t
+GroupDialogEntry	DialogGroup.cpp	/^void DialogGroup::GroupDialogEntry(GroupInfo *grpinf)$/;"	f	class:DialogGroup
+GroupGetPaltreeItem	MainWindow.cpp	/^bool MainWindow::GroupGetPaltreeItem(GtkTreeModel *model, GtkTreeIter *iter,$/;"	f	class:MainWindow
+GroupGetPaltreeItemWithParent	MainWindow.cpp	/^bool MainWindow::GroupGetPaltreeItemWithParent(GtkTreeModel *model, GtkTreeIter *iter,$/;"	f	class:MainWindow
+GroupGetPrevPaltreeItem	MainWindow.cpp	/^bool MainWindow::GroupGetPrevPaltreeItem(GtkTreeModel *model, GtkTreeIter *iter,$/;"	f	class:MainWindow
+GroupInfo	mess.cpp	/^GroupInfo::GroupInfo():grpid(0), type(GROUP_BELONG_TYPE_REGULAR), name(NULL),$/;"	f	class:GroupInfo
+GroupInfo	mess.h	/^class GroupInfo {$/;"	c
+HEADERS	Makefile	/^HEADERS = $(noinst_HEADERS)$/;"	m
+HEADERS	uninstall/Makefile	/^HEADERS = $(noinst_HEADERS)$/;"	m
+HLIST_ENTRY_SEPARATOR	ipmsg.h	152;"	d
+HOSTLIST_DUMMY	ipmsg.h	151;"	d
+HOSTLIST_SEPARATOR	ipmsg.h	150;"	d
+HelpDialog	HelpDialog.cpp	/^HelpDialog::HelpDialog()$/;"	f	class:HelpDialog
+HelpDialog	HelpDialog.h	/^class HelpDialog {$/;"	c
+HelpDialog_H	HelpDialog.h	13;"	d
+HidePallistArea	MainWindow.cpp	/^void MainWindow::HidePallistArea(GData **widset)$/;"	f	class:MainWindow
+HideTransWindow	MainWindow.cpp	/^void MainWindow::HideTransWindow(GData **widset)$/;"	f	class:MainWindow
+ICON_PATH	deplib.h	38;"	d
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	uninstall/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	uninstall/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	uninstall/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^	  $(MAKE) $(AM_MAKEFLAGS) INSTALL_PROGRAM="$(INSTALL_STRIP_PROGRAM)" \\$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	uninstall/Makefile	/^	  $(MAKE) $(AM_MAKEFLAGS) INSTALL_PROGRAM="$(INSTALL_STRIP_PROGRAM)" \\$/;"	m
+INSTALL_PROGRAM	uninstall/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	uninstall/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_FLAG	Makefile	/^	    install_sh_PROGRAM="$(INSTALL_STRIP_PROGRAM)" INSTALL_STRIP_FLAG=-s \\$/;"	m
+INSTALL_STRIP_FLAG	uninstall/Makefile	/^	    install_sh_PROGRAM="$(INSTALL_STRIP_PROGRAM)" INSTALL_STRIP_FLAG=-s \\$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	uninstall/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTOBJEXT	Makefile	/^INSTOBJEXT = .mo$/;"	m
+INSTOBJEXT	uninstall/Makefile	/^INSTOBJEXT = .mo$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	uninstall/Makefile	/^INTLLIBS = $/;"	m
+IPMSG_ABSENCEOPT	ipmsg.h	65;"	d
+IPMSG_AES_128	ipmsg.h	98;"	d
+IPMSG_AES_192	ipmsg.h	99;"	d
+IPMSG_AES_256	ipmsg.h	100;"	d
+IPMSG_ANSENTRY	ipmsg.h	36;"	d
+IPMSG_ANSLIST	ipmsg.h	42;"	d
+IPMSG_ANSPUBKEY	ipmsg.h	62;"	d
+IPMSG_ANSREADMSG	ipmsg.h	49;"	d
+IPMSG_AUTORETOPT	ipmsg.h	78;"	d
+IPMSG_BLOWFISH_128	ipmsg.h	96;"	d
+IPMSG_BLOWFISH_128ALL	ipmsg.h	111;"	d
+IPMSG_BLOWFISH_128OLD	ipmsg.h	108;"	d
+IPMSG_BLOWFISH_256	ipmsg.h	97;"	d
+IPMSG_BROADCASTOPT	ipmsg.h	75;"	d
+IPMSG_BR_ABSENCE	ipmsg.h	37;"	d
+IPMSG_BR_ENTRY	ipmsg.h	34;"	d
+IPMSG_BR_EXIT	ipmsg.h	35;"	d
+IPMSG_BR_ISGETLIST	ipmsg.h	39;"	d
+IPMSG_BR_ISGETLIST2	ipmsg.h	43;"	d
+IPMSG_DELMSG	ipmsg.h	48;"	d
+IPMSG_DIALUPOPT	ipmsg.h	67;"	d
+IPMSG_ENCRYPTOPT	ipmsg.h	69;"	d
+IPMSG_FILEATTACHOPT	ipmsg.h	68;"	d
+IPMSG_FILE_ACL	ipmsg.h	145;"	d
+IPMSG_FILE_ALIASFNAME	ipmsg.h	146;"	d
+IPMSG_FILE_ARCHIVEOPT	ipmsg.h	127;"	d
+IPMSG_FILE_ATIME	ipmsg.h	140;"	d
+IPMSG_FILE_BDEV	ipmsg.h	119;"	d
+IPMSG_FILE_CDEV	ipmsg.h	118;"	d
+IPMSG_FILE_CREATETIME	ipmsg.h	141;"	d
+IPMSG_FILE_CREATOR	ipmsg.h	142;"	d
+IPMSG_FILE_CTIME	ipmsg.h	138;"	d
+IPMSG_FILE_DIR	ipmsg.h	115;"	d
+IPMSG_FILE_EXHIDDENOPT	ipmsg.h	126;"	d
+IPMSG_FILE_FIFO	ipmsg.h	120;"	d
+IPMSG_FILE_FILETYPE	ipmsg.h	143;"	d
+IPMSG_FILE_FINDERINFO	ipmsg.h	144;"	d
+IPMSG_FILE_GID	ipmsg.h	133;"	d
+IPMSG_FILE_GROUPNAME	ipmsg.h	134;"	d
+IPMSG_FILE_HIDDENOPT	ipmsg.h	125;"	d
+IPMSG_FILE_MAJORNO	ipmsg.h	136;"	d
+IPMSG_FILE_MINORNO	ipmsg.h	137;"	d
+IPMSG_FILE_MTIME	ipmsg.h	139;"	d
+IPMSG_FILE_PERM	ipmsg.h	135;"	d
+IPMSG_FILE_REGULAR	ipmsg.h	114;"	d
+IPMSG_FILE_RESFORK	ipmsg.h	121;"	d
+IPMSG_FILE_RETPARENT	ipmsg.h	116;"	d
+IPMSG_FILE_RONLYOPT	ipmsg.h	124;"	d
+IPMSG_FILE_SYMLINK	ipmsg.h	117;"	d
+IPMSG_FILE_SYSTEMOPT	ipmsg.h	128;"	d
+IPMSG_FILE_UID	ipmsg.h	131;"	d
+IPMSG_FILE_UNICODEFNAME	ipmsg.h	147;"	d
+IPMSG_FILE_USERNAME	ipmsg.h	132;"	d
+IPMSG_GETABSENCEINFO	ipmsg.h	54;"	d
+IPMSG_GETDIRFILES	ipmsg.h	59;"	d
+IPMSG_GETFILEDATA	ipmsg.h	57;"	d
+IPMSG_GETINFO	ipmsg.h	51;"	d
+IPMSG_GETLIST	ipmsg.h	41;"	d
+IPMSG_GETPUBKEY	ipmsg.h	61;"	d
+IPMSG_H	ipmsg.h	27;"	d
+IPMSG_MULTICASTOPT	ipmsg.h	76;"	d
+IPMSG_NEWMUTIOPT	ipmsg.h	82;"	d
+IPMSG_NOADDLISTOPT	ipmsg.h	83;"	d
+IPMSG_NOLOGOPT	ipmsg.h	81;"	d
+IPMSG_NOOPERATION	ipmsg.h	32;"	d
+IPMSG_NOPOPUPOPT	ipmsg.h	77;"	d
+IPMSG_NO_REPLY_OPTS	ipmsg.h	87;"	d
+IPMSG_OKGETLIST	ipmsg.h	40;"	d
+IPMSG_PASSWORDOPT	ipmsg.h	80;"	d
+IPMSG_PORT	ipmsg.h	29;"	d
+IPMSG_RC2_128	ipmsg.h	94;"	d
+IPMSG_RC2_128ALL	ipmsg.h	110;"	d
+IPMSG_RC2_128OLD	ipmsg.h	107;"	d
+IPMSG_RC2_256	ipmsg.h	95;"	d
+IPMSG_RC2_40	ipmsg.h	93;"	d
+IPMSG_RC2_40ALL	ipmsg.h	109;"	d
+IPMSG_RC2_40OLD	ipmsg.h	106;"	d
+IPMSG_READCHECKOPT	ipmsg.h	84;"	d
+IPMSG_READMSG	ipmsg.h	47;"	d
+IPMSG_RECVMSG	ipmsg.h	46;"	d
+IPMSG_RELEASEFILES	ipmsg.h	58;"	d
+IPMSG_RETRYOPT	ipmsg.h	79;"	d
+IPMSG_RSA_1024	ipmsg.h	91;"	d
+IPMSG_RSA_2048	ipmsg.h	92;"	d
+IPMSG_RSA_512	ipmsg.h	90;"	d
+IPMSG_SECRETEXOPT	ipmsg.h	85;"	d
+IPMSG_SECRETOPT	ipmsg.h	74;"	d
+IPMSG_SENDABSENCEINFO	ipmsg.h	55;"	d
+IPMSG_SENDCHECKOPT	ipmsg.h	73;"	d
+IPMSG_SENDINFO	ipmsg.h	52;"	d
+IPMSG_SENDMSG	ipmsg.h	45;"	d
+IPMSG_SERVEROPT	ipmsg.h	66;"	d
+IPMSG_SIGN_MD5	ipmsg.h	102;"	d
+IPMSG_SIGN_SHA1	ipmsg.h	103;"	d
+IPMSG_SIGN_STAMPOPT	ipmsg.h	101;"	d
+IPMSG_UTF8OPT	ipmsg.h	70;"	d
+IPMSG_VERSION	ipmsg.h	28;"	d
+IPTUX_ASKSHARED	ipmsg.h	167;"	d
+IPTUX_BROADCASTOPT	ipmsg.h	183;"	d
+IPTUX_DEFAULT_PORT	ipmsg.h	164;"	d
+IPTUX_GROUPOPT	ipmsg.h	182;"	d
+IPTUX_MSGPICOPT	ipmsg.h	174;"	d
+IPTUX_PASSWDOPT	ipmsg.h	178;"	d
+IPTUX_PATH	deplib.h	35;"	d
+IPTUX_PHOTOPICOPT	ipmsg.h	173;"	d
+IPTUX_REGULAROPT	ipmsg.h	180;"	d
+IPTUX_SEGMENTOPT	ipmsg.h	181;"	d
+IPTUX_SENDICON	ipmsg.h	168;"	d
+IPTUX_SENDMSG	ipmsg.h	171;"	d
+IPTUX_SENDSIGN	ipmsg.h	170;"	d
+IPTUX_SENDSUBLAYER	ipmsg.h	169;"	d
+IPTUX_SHAREDOPT	ipmsg.h	176;"	d
+IPTUX_VERSION	ipmsg.h	163;"	d
+IconfileGetItemPos	DataSettings.cpp	/^gint DataSettings::IconfileGetItemPos(GtkTreeModel *model, const char *pathname)$/;"	f	class:DataSettings
+IconfileGetItemPos	RevisePal.cpp	/^gint RevisePal::IconfileGetItemPos(GtkTreeModel *model, const char *pathname)$/;"	f	class:RevisePal
+ImportNetSegment	DataSettings.cpp	/^void DataSettings::ImportNetSegment(DataSettings *dset)$/;"	f	class:DataSettings
+InitSublayer	CoreThread.cpp	/^void CoreThread::InitSublayer()$/;"	f	class:CoreThread
+InitSublayer	DataSettings.cpp	/^void DataSettings::InitSublayer()$/;"	f	class:DataSettings
+InitSublayer	LogSystem.cpp	/^void LogSystem::InitSublayer()$/;"	f	class:LogSystem
+InitSublayer	MainWindow.cpp	/^void MainWindow::InitSublayer()$/;"	f	class:MainWindow
+InitSublayer	ProgramData.cpp	/^void ProgramData::InitSublayer()$/;"	f	class:ProgramData
+InitSublayer	RevisePal.cpp	/^void RevisePal::InitSublayer()$/;"	f	class:RevisePal
+InitSublayer	ShareFile.cpp	/^void ShareFile::InitSublayer()$/;"	f	class:ShareFile
+InitSublayer	SoundSystem.cpp	/^void SoundSystem::InitSublayer()$/;"	f	class:SoundSystem
+InitSublayerGeneral	DialogBase.cpp	/^void DialogBase::InitSublayerGeneral()$/;"	f	class:DialogBase
+InitSublayerSpecify	DialogGroup.cpp	/^void DialogGroup::InitSublayerSpecify()$/;"	f	class:DialogGroup
+InitThemeSublayerData	CoreThread.cpp	/^void CoreThread::InitThemeSublayerData()$/;"	f	class:CoreThread
+InsertHeaderToBuffer	CoreThread.cpp	/^void CoreThread::InsertHeaderToBuffer(GtkTextBuffer *buffer, MsgPara *para)$/;"	f	class:CoreThread
+InsertMessage	CoreThread.cpp	/^void CoreThread::InsertMessage(MsgPara *para)$/;"	f	class:CoreThread
+InsertMessage	UdpData.cpp	/^void UdpData::InsertMessage(PalInfo *pal, GroupBelongType btype, const char *msg)$/;"	f	class:UdpData
+InsertMsgToGroupInfoItem	CoreThread.cpp	/^void CoreThread::InsertMsgToGroupInfoItem(GroupInfo *grpinf, MsgPara *para)$/;"	f	class:CoreThread
+InsertPalData	DialogGroup.cpp	/^void DialogGroup::InsertPalData(PalInfo *pal)$/;"	f	class:DialogGroup
+InsertPalData	DialogPeer.cpp	/^void DialogPeer::InsertPalData(PalInfo *pal)$/;"	f	class:DialogPeer
+InsertPicture	DialogPeer.cpp	/^void DialogPeer::InsertPicture(DialogPeer *dlgpr)$/;"	f	class:DialogPeer
+InsertPixbufToBuffer	CoreThread.cpp	/^void CoreThread::InsertPixbufToBuffer(GtkTextBuffer *buffer, gchar *path)$/;"	f	class:CoreThread
+InsertStringToBuffer	CoreThread.cpp	/^void CoreThread::InsertStringToBuffer(GtkTextBuffer *buffer, gchar *string)$/;"	f	class:CoreThread
+IsEmbedded	StatusIcon.cpp	/^gboolean StatusIcon::IsEmbedded() $/;"	f	class:StatusIcon
+LDFLAGS	Makefile	/^LDFLAGS = -Wl,-Bsymbolic-functions -Wl,-z,relro$/;"	m
+LDFLAGS	uninstall/Makefile	/^LDFLAGS = -Wl,-Bsymbolic-functions -Wl,-z,relro$/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	uninstall/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $(all_libraries)$/;"	m
+LIBS	uninstall/Makefile	/^LIBS = $/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LN_S	uninstall/Makefile	/^LN_S = ln -s$/;"	m
+LOGSYSTEM_H	LogSystem.h	13;"	d
+LOG_END_HEADER	LogSystem.cpp	18;"	d	file:
+LOG_PATH	deplib.h	36;"	d
+LOG_START_HEADER	LogSystem.cpp	17;"	d	file:
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	uninstall/Makefile	/^LTLIBOBJS = $/;"	m
+LinkElement	SoundSystem.cpp	/^void SoundSystem::LinkElement(GData **eltset, GstPad *pad)$/;"	f	class:SoundSystem
+ListContainPal	CoreThread.cpp	/^bool CoreThread::ListContainPal(in_addr_t ipv4)$/;"	f	class:CoreThread
+LogSystem	LogSystem.cpp	/^LogSystem::LogSystem():fdc(-1), fds(-1)$/;"	f	class:LogSystem
+LogSystem	LogSystem.h	/^class LogSystem {$/;"	c
+MAINT	Makefile	/^MAINT = #$/;"	m
+MAINT	uninstall/Makefile	/^MAINT = #$/;"	m
+MAINWINDOW_H	MainWindow.h	13;"	d
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing makeinfo$/;"	m
+MAKEINFO	uninstall/Makefile	/^MAKEINFO = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/missing makeinfo$/;"	m
+MAX_BUFLEN	ipmsg.h	188;"	d
+MAX_ICONSIZE	ipmsg.h	191;"	d
+MAX_PATHLEN	ipmsg.h	189;"	d
+MAX_PATHLEN	uninstall/utils.cpp	14;"	d	file:
+MAX_PHOTOSIZE	ipmsg.h	193;"	d
+MAX_PREVIEWSIZE	ipmsg.h	192;"	d
+MAX_RETRYTIMES	ipmsg.h	194;"	d
+MAX_SHAREDFILE	ipmsg.h	190;"	d
+MAX_SOCKLEN	ipmsg.h	186;"	d
+MAX_UDPLEN	ipmsg.h	187;"	d
+MESSAGE_CONTENT_TYPE_PICTURE	mess.h	/^        MESSAGE_CONTENT_TYPE_PICTURE    \/\/\/< 图片$/;"	e
+MESSAGE_CONTENT_TYPE_STRING	mess.h	/^        MESSAGE_CONTENT_TYPE_STRING,    \/\/\/< 字符串$/;"	e
+MESSAGE_SOURCE_TYPE_ERROR	mess.h	/^        MESSAGE_SOURCE_TYPE_ERROR       \/\/\/< 错误$/;"	e
+MESSAGE_SOURCE_TYPE_PAL	mess.h	/^        MESSAGE_SOURCE_TYPE_PAL,        \/\/\/< 好友$/;"	e
+MESSAGE_SOURCE_TYPE_SELF	mess.h	/^        MESSAGE_SOURCE_TYPE_SELF,       \/\/\/< 自身$/;"	e
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	uninstall/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	uninstall/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	uninstall/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_OPTS	Makefile	/^MSGFMT_OPTS = -c$/;"	m
+MSGFMT_OPTS	uninstall/Makefile	/^MSGFMT_OPTS = -c$/;"	m
+MWinConfigureEvent	MainWindow.cpp	/^gboolean MainWindow::MWinConfigureEvent(GtkWidget *window,$/;"	f	class:MainWindow
+MainWindow	MainWindow.cpp	/^MainWindow::MainWindow():widset(NULL), mdlset(NULL), dtset(NULL),$/;"	f	class:MainWindow
+MainWindow	MainWindow.h	/^class MainWindow {$/;"	c
+MainWindowSignalSetup	DialogBase.cpp	/^void DialogBase::MainWindowSignalSetup(GtkWidget *window)$/;"	f	class:DialogBase
+MakeItemBlinking	MainWindow.cpp	/^void MainWindow::MakeItemBlinking(GroupInfo *grpinf, bool blinking)$/;"	f	class:MainWindow
+MemberTreeCompareByIPFunc	DialogGroup.cpp	/^gint DialogGroup::MemberTreeCompareByIPFunc(GtkTreeModel *model,$/;"	f	class:DialogGroup
+MemberTreeCompareByNameFunc	DialogGroup.cpp	/^gint DialogGroup::MemberTreeCompareByNameFunc(GtkTreeModel *model,$/;"	f	class:DialogGroup
+MembertreeItemActivated	DialogGroup.cpp	/^void DialogGroup::MembertreeItemActivated(GtkWidget *treeview, GtkTreePath *path,$/;"	f	class:DialogGroup
+MessageContentType	mess.h	/^}MessageContentType;$/;"	t
+MessageSourceType	mess.h	/^}MessageSourceType;$/;"	t
+MoreEntry	HelpDialog.cpp	/^void HelpDialog::MoreEntry()$/;"	f	class:HelpDialog
+MsgPara	mess.cpp	/^MsgPara::MsgPara():pal(NULL), stype(MESSAGE_SOURCE_TYPE_PAL),$/;"	f	class:MsgPara
+MsgPara	mess.h	/^class MsgPara {$/;"	c
+MsglineContainItem	CoreThread.cpp	/^bool CoreThread::MsglineContainItem(GroupInfo *grpinf)$/;"	f	class:CoreThread
+NET_H	net.h	13;"	d
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	uninstall/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	uninstall/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NO_OPERATION_C	utils.h	30;"	d
+NULL_OBJECT	deplib.h	31;"	d
+NetSegment	mess.cpp	/^NetSegment::NetSegment():startip(NULL), endip(NULL), description(NULL)$/;"	f	class:NetSegment
+NetSegment	mess.h	/^class NetSegment {$/;"	c
+NetworkTreeCompareFunc	DataSettings.cpp	/^gint DataSettings::NetworkTreeCompareFunc(GtkTreeModel *model,$/;"	f	class:DataSettings
+NotifyUser	DialogBase.cpp	/^void DialogBase::NotifyUser()$/;"	f	class:DialogBase
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	uninstall/Makefile	/^OBJEXT = o$/;"	m
+OCCUPY_OBJECT	deplib.h	30;"	d
+OUTPUT_H	output.h	13;"	d
+O_LARGEFILE	sys.h	56;"	d
+ObtainNetworkValue	DataSettings.cpp	/^void DataSettings::ObtainNetworkValue()$/;"	f	class:DataSettings
+ObtainPersonalValue	DataSettings.cpp	/^void DataSettings::ObtainPersonalValue()$/;"	f	class:DataSettings
+ObtainSoundValue	DataSettings.cpp	/^void DataSettings::ObtainSoundValue()$/;"	f	class:DataSettings
+ObtainSystemValue	DataSettings.cpp	/^void DataSettings::ObtainSystemValue()$/;"	f	class:DataSettings
+ObtainWindow	MainWindow.cpp	/^GtkWidget *MainWindow::ObtainWindow()$/;"	f	class:MainWindow
+OnNewMessageComing	DialogBase.cpp	/^void DialogBase::OnNewMessageComing()$/;"	f	class:DialogBase
+OpenContainingFolder	MainWindow.cpp	/^void MainWindow::OpenContainingFolder(GtkTreeModel *model)$/;"	f	class:MainWindow
+OpenThisFile	MainWindow.cpp	/^void MainWindow::OpenThisFile(GtkTreeModel *model)$/;"	f	class:MainWindow
+OpenTransDlg	DialogBase.cpp	/^void DialogBase::OpenTransDlg(DialogBase *dlgpr)$/;"	f	class:DialogBase
+OpenTransWindow	MainWindow.cpp	/^void MainWindow::OpenTransWindow()$/;"	f	class:MainWindow
+PACKAGE	Makefile	/^PACKAGE = iptux$/;"	m
+PACKAGE	uninstall/Makefile	/^PACKAGE = iptux$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = https:\/\/github.com\/iptux-src\/iptux\/issues$/;"	m
+PACKAGE_BUGREPORT	uninstall/Makefile	/^PACKAGE_BUGREPORT = https:\/\/github.com\/iptux-src\/iptux\/issues$/;"	m
+PACKAGE_CFLAGS	Makefile	/^PACKAGE_CFLAGS = -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   -pthread -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/i386-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng12 -I\/usr\/include\/harfbuzz   -pthread -I\/usr\/include\/gconf\/2 -I\/usr\/include\/dbus-1.0 -I\/usr\/lib\/i386-linux-gnu\/dbus-1.0\/include -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   $/;"	m
+PACKAGE_CFLAGS	uninstall/Makefile	/^PACKAGE_CFLAGS = -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   -pthread -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/i386-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng12 -I\/usr\/include\/harfbuzz   -pthread -I\/usr\/include\/gconf\/2 -I\/usr\/include\/dbus-1.0 -I\/usr\/lib\/i386-linux-gnu\/dbus-1.0\/include -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/i386-linux-gnu\/glib-2.0\/include   $/;"	m
+PACKAGE_LIBS	Makefile	/^PACKAGE_LIBS = -lglib-2.0   -pthread -lgthread-2.0 -lglib-2.0   -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lglib-2.0   -lgconf-2 -lglib-2.0   $/;"	m
+PACKAGE_LIBS	uninstall/Makefile	/^PACKAGE_LIBS = -lglib-2.0   -pthread -lgthread-2.0 -lglib-2.0   -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lglib-2.0   -lgconf-2 -lglib-2.0   $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = iptux$/;"	m
+PACKAGE_NAME	uninstall/Makefile	/^PACKAGE_NAME = iptux$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = iptux 0.6.2$/;"	m
+PACKAGE_STRING	uninstall/Makefile	/^PACKAGE_STRING = iptux 0.6.2$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = iptux$/;"	m
+PACKAGE_TARNAME	uninstall/Makefile	/^PACKAGE_TARNAME = iptux$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	uninstall/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 0.6.2$/;"	m
+PACKAGE_VERSION	uninstall/Makefile	/^PACKAGE_VERSION = 0.6.2$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	uninstall/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PHOTO_PATH	deplib.h	39;"	d
+PIC_PATH	deplib.h	37;"	d
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	uninstall/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG_LIBDIR	Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	uninstall/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_PATH	Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	uninstall/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+POFILES	Makefile	/^POFILES =  de.po en_GB.po es.po pl.po zh_CN.po zh_TW.po$/;"	m
+POFILES	uninstall/Makefile	/^POFILES =  de.po en_GB.po es.po pl.po zh_CN.po zh_TW.po$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	uninstall/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	uninstall/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+POSUB	uninstall/Makefile	/^POSUB = po$/;"	m
+PO_IN_DATADIR_FALSE	Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_FALSE	uninstall/Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_TRUE	Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+PO_IN_DATADIR_TRUE	uninstall/Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	uninstall/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	uninstall/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMDATA_H	ProgramData.h	13;"	d
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PROGRAMS	uninstall/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PackageMsg	DialogPeer.cpp	/^MsgPara *DialogPeer::PackageMsg(GSList *dtlist)$/;"	f	class:DialogPeer
+Packetn	Command.h	/^        inline uint32_t &Packetn() {$/;"	f	class:Command
+PalInfo	mess.cpp	/^PalInfo::PalInfo():ipv4(0), segdes(NULL), version(NULL), user(NULL), host(NULL),$/;"	f	class:PalInfo
+PalInfo	mess.h	/^class PalInfo {$/;"	c
+PallistDragDataReceived	MainWindow.cpp	/^void MainWindow::PallistDragDataReceived(GtkWidget *treeview, GdkDragContext *context,$/;"	f	class:MainWindow
+PallistEntryChanged	MainWindow.cpp	/^void MainWindow::PallistEntryChanged(GtkWidget *entry,GData **widset)$/;"	f	class:MainWindow
+PallistItemActivated	MainWindow.cpp	/^void MainWindow::PallistItemActivated(GtkWidget *treeview, GtkTreePath *path,$/;"	f	class:MainWindow
+PaltreeChangeStatus	MainWindow.cpp	/^gboolean MainWindow::PaltreeChangeStatus(GtkWidget *treeview, GdkEventButton *event)$/;"	f	class:MainWindow
+PaltreeCompareByIPFunc	MainWindow.cpp	/^gint MainWindow::PaltreeCompareByIPFunc(GtkTreeModel *model,$/;"	f	class:MainWindow
+PaltreeCompareByNameFunc	MainWindow.cpp	/^gint MainWindow::PaltreeCompareByNameFunc(GtkTreeModel *model,$/;"	f	class:MainWindow
+PaltreeContainItem	MainWindow.cpp	/^bool MainWindow::PaltreeContainItem(in_addr_t ipv4)$/;"	f	class:MainWindow
+PaltreeDragDataReceived	MainWindow.cpp	/^void MainWindow::PaltreeDragDataReceived(GtkWidget *treeview, GdkDragContext *context,$/;"	f	class:MainWindow
+PaltreeItemActivated	MainWindow.cpp	/^void MainWindow::PaltreeItemActivated(GtkWidget *treeview, GtkTreePath *path,$/;"	f	class:MainWindow
+PaltreePopupMenu	MainWindow.cpp	/^gboolean MainWindow::PaltreePopupMenu(GtkWidget *treeview, GdkEventButton *event)$/;"	f	class:MainWindow
+PaltreeQueryTooltip	MainWindow.cpp	/^gboolean MainWindow::PaltreeQueryTooltip(GtkWidget *treeview, gint x, gint y,$/;"	f	class:MainWindow
+PanedDivideChanged	DialogBase.cpp	/^void DialogBase::PanedDivideChanged(GtkWidget *paned, GParamSpec *pspec,$/;"	f	class:DialogBase
+PanedDivideChanged	MainWindow.cpp	/^void MainWindow::PanedDivideChanged(GtkWidget *paned, GParamSpec *pspec,$/;"	f	class:MainWindow
+ParseFilePara	RecvFile.cpp	/^void RecvFile::ParseFilePara(GData **para)$/;"	f	class:RecvFile
+PbnQuote	CoreThread.h	/^        } inline uint32_t &PbnQuote() {$/;"	f	class:CoreThread
+PeerDialogEntry	DialogPeer.cpp	/^void DialogPeer::PeerDialogEntry(GroupInfo *grpinf)$/;"	f	class:DialogPeer
+PickEnclosure	DialogBase.cpp	/^GSList *DialogBase::PickEnclosure(uint32_t fileattr)$/;"	f	class:DialogBase
+PickSharedFile	ShareFile.cpp	/^GSList *ShareFile::PickSharedFile(uint32_t fileattr)$/;"	f	class:ShareFile
+PlayTesting	DataSettings.cpp	/^void DataSettings::PlayTesting(GData **widset)$/;"	f	class:DataSettings
+Playing	SoundSystem.cpp	/^void SoundSystem::Playing(const char *file)$/;"	f	class:SoundSystem
+PopItemFromEnclosureList	CoreThread.cpp	/^void CoreThread::PopItemFromEnclosureList(FileInfo *file)$/;"	f	class:CoreThread
+PopItemFromMsgline	CoreThread.cpp	/^void CoreThread::PopItemFromMsgline(GroupInfo *grpinf)$/;"	f	class:CoreThread
+PopupPickMenu	DataSettings.cpp	/^gboolean DataSettings::PopupPickMenu(GtkWidget *treeview, GdkEventButton *event)$/;"	f	class:DataSettings
+PopupPickMenu	DialogGroup.cpp	/^gboolean DialogGroup::PopupPickMenu(GtkWidget *treeview, GdkEventButton *event)$/;"	f	class:DialogGroup
+PopupWorkMenu	StatusIcon.cpp	/^void StatusIcon::PopupWorkMenu(GtkStatusIcon *statusicon, guint button, guint time)$/;"	f	class:StatusIcon
+PrnQuote	CoreThread.h	/^        } inline uint32_t &PrnQuote() {$/;"	f	class:CoreThread
+ProgramData	ProgramData.cpp	/^ProgramData::ProgramData():nickname(NULL), mygroup(NULL),$/;"	f	class:ProgramData
+ProgramData	ProgramData.h	/^class ProgramData {$/;"	c
+PushItemToEnclosureList	CoreThread.cpp	/^void CoreThread::PushItemToEnclosureList(FileInfo *file)$/;"	f	class:CoreThread
+PushItemToMsgline	CoreThread.cpp	/^void CoreThread::PushItemToMsgline(GroupInfo *grpinf)$/;"	f	class:CoreThread
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	uninstall/Makefile	/^RANLIB = ranlib$/;"	m
+RECVFILEDATA_H	RecvFileData.h	13;"	d
+RECVFILE_H	RecvFile.h	15;"	d
+REVISEPAL_H	RevisePal.h	13;"	d
+RcvTreePopup	DialogPeer.cpp	/^gint DialogPeer::RcvTreePopup(GtkWidget *treeview,GdkEvent *event)$/;"	f	class:DialogPeer
+ReadNetSegment	DataSettings.cpp	/^void DataSettings::ReadNetSegment(const char *filename, GSList **list)$/;"	f	class:DataSettings
+ReadNetSegment	ProgramData.cpp	/^void ProgramData::ReadNetSegment(GConfClient *client)$/;"	f	class:ProgramData
+ReadProgData	ProgramData.cpp	/^void ProgramData::ReadProgData()$/;"	f	class:ProgramData
+ReadSharedData	CoreThread.cpp	/^void CoreThread::ReadSharedData()$/;"	f	class:CoreThread
+ReadUILayout	DialogGroup.cpp	/^void DialogGroup::ReadUILayout()$/;"	f	class:DialogGroup
+ReadUILayout	DialogPeer.cpp	/^void DialogPeer::ReadUILayout()$/;"	f	class:DialogPeer
+ReadUILayout	MainWindow.cpp	/^void MainWindow::ReadUILayout()$/;"	f	class:MainWindow
+ReceiveFile	DialogPeer.cpp	/^void DialogPeer::ReceiveFile(DialogPeer *dlgpr)$/;"	f	class:DialogPeer
+RecvData	RecvFileData.cpp	/^int64_t RecvFileData::RecvData(int sock, int fd, int64_t filesize, int64_t offset)$/;"	f	class:RecvFileData
+RecvDirFiles	RecvFileData.cpp	/^void RecvFileData::RecvDirFiles()$/;"	f	class:RecvFileData
+RecvEntry	RecvFile.cpp	/^void RecvFile::RecvEntry(GData *para)$/;"	f	class:RecvFile
+RecvFile	RecvFile.cpp	/^RecvFile::RecvFile()$/;"	f	class:RecvFile
+RecvFile	RecvFile.h	/^class RecvFile {$/;"	c
+RecvFileData	RecvFileData.cpp	/^RecvFileData::RecvFileData(FileInfo *fl):file(fl), para(NULL), terminate(false),$/;"	f	class:RecvFileData
+RecvFileData	RecvFileData.h	/^class RecvFileData: public TransAbstract$/;"	c
+RecvFileDataEntry	RecvFileData.cpp	/^void RecvFileData::RecvFileDataEntry()$/;"	f	class:RecvFileData
+RecvMsgPic	TcpData.cpp	/^void TcpData::RecvMsgPic(PalInfo *pal, const char *path)$/;"	f	class:TcpData
+RecvPalFile	UdpData.cpp	/^void UdpData::RecvPalFile()$/;"	f	class:UdpData
+RecvPalIcon	UdpData.cpp	/^char *UdpData::RecvPalIcon()$/;"	f	class:UdpData
+RecvPhotoPic	TcpData.cpp	/^void TcpData::RecvPhotoPic(PalInfo *pal, const char *path)$/;"	f	class:TcpData
+RecvRegularFile	RecvFileData.cpp	/^void RecvFileData::RecvRegularFile()$/;"	f	class:RecvFileData
+RecvSublayer	TcpData.cpp	/^void TcpData::RecvSublayer(uint32_t cmdopt)$/;"	f	class:TcpData
+RecvSublayerData	TcpData.cpp	/^void TcpData::RecvSublayerData(int fd, size_t len)$/;"	f	class:TcpData
+RecvTcpData	CoreThread.cpp	/^void CoreThread::RecvTcpData(CoreThread *pcthrd)$/;"	f	class:CoreThread
+RecvUdpData	CoreThread.cpp	/^void CoreThread::RecvUdpData(CoreThread *pcthrd)$/;"	f	class:CoreThread
+RemoveSelectedEnclosure	DialogBase.cpp	/^void DialogBase::RemoveSelectedEnclosure(GtkWidget *widget)$/;"	f	class:DialogBase
+RemoveSelectedFromTree	DialogBase.cpp	/^void DialogBase::RemoveSelectedFromTree(GtkWidget *widget)$/;"	f	class:DialogBase
+RemoveSelectedRcv	DialogPeer.cpp	/^void DialogPeer::RemoveSelectedRcv(GtkWidget *widget)$/;"	f	class:DialogPeer
+RequestData	TcpData.cpp	/^void TcpData::RequestData(uint32_t fileattr)$/;"	f	class:TcpData
+RequestDataEntry	SendFile.cpp	/^void SendFile::RequestDataEntry(int sock, uint32_t fileattr, char *attach)$/;"	f	class:SendFile
+ResetDataEntry	DataSettings.cpp	/^void DataSettings::ResetDataEntry(GtkWidget *parent)$/;"	f	class:DataSettings
+ReviseEntry	RevisePal.cpp	/^void RevisePal::ReviseEntry(PalInfo *pal)$/;"	f	class:RevisePal
+RevisePal	RevisePal.cpp	/^RevisePal::RevisePal(PalInfo *pl):widset(NULL), mdlset(NULL), pal(pl)$/;"	f	class:RevisePal
+RevisePal	RevisePal.h	/^class RevisePal {$/;"	c
+RunHelpDialog	HelpDialog.cpp	/^void HelpDialog::RunHelpDialog(GtkWidget **dialog)$/;"	f	class:HelpDialog
+SENDFILEDATA_H	SendFileData.h	13;"	d
+SENDFILE_H	SendFile.h	13;"	d
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	uninstall/Makefile	/^SET_MAKE = $/;"	m
+SHAREFILE_H	ShareFile.h	13;"	d
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	uninstall/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOUNDSYSTEM_H	SoundSystem.h	13;"	d
+SOURCES	Makefile	/^SOURCES = $(iptux_SOURCES)$/;"	m
+SOURCES	uninstall/Makefile	/^SOURCES = $(ihateiptux_SOURCES)$/;"	m
+STATUSICON_H	StatusIcon.h	13;"	d
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	uninstall/Makefile	/^STRIP = $/;"	m
+SUPPORT_H	support.h	13;"	d
+SYS_H	sys.h	13;"	d
+SaveUILayout	DialogGroup.cpp	/^void DialogGroup::SaveUILayout()$/;"	f	class:DialogGroup
+ScrollHistoryTextview	DialogBase.cpp	/^void DialogBase::ScrollHistoryTextview()$/;"	f	class:DialogBase
+SendAbsence	Command.cpp	/^void Command::SendAbsence(int sock, PalInfo *pal)$/;"	f	class:Command
+SendAnsentry	Command.cpp	/^void Command::SendAnsentry(int sock, PalInfo *pal)$/;"	f	class:Command
+SendAskData	Command.cpp	/^bool Command::SendAskData(int sock, PalInfo *pal, uint32_t packetno,$/;"	f	class:Command
+SendAskFiles	Command.cpp	/^bool Command::SendAskFiles(int sock, PalInfo *pal, uint32_t packetno, uint32_t fileid)$/;"	f	class:Command
+SendAskShared	Command.cpp	/^void Command::SendAskShared(int sock, PalInfo *pal, uint32_t opttype, const char *attach)$/;"	f	class:Command
+SendBroadcastExit	CoreThread.cpp	/^void CoreThread::SendBroadcastExit(PalInfo *pal)$/;"	f	class:CoreThread
+SendData	SendFileData.cpp	/^int64_t SendFileData::SendData(int fd, int64_t filesize)$/;"	f	class:SendFileData
+SendDetectPacket	Command.cpp	/^void Command::SendDetectPacket(int sock, in_addr_t ipv4)$/;"	f	class:Command
+SendDetectPacket	DetectPal.cpp	/^void DetectPal::SendDetectPacket()$/;"	f	class:DetectPal
+SendDirFiles	SendFileData.cpp	/^void SendFileData::SendDirFiles()$/;"	f	class:SendFileData
+SendEnclosureMsg	DialogBase.cpp	/^bool DialogBase::SendEnclosureMsg()$/;"	f	class:DialogBase
+SendExit	Command.cpp	/^void Command::SendExit(int sock, PalInfo *pal)$/;"	f	class:Command
+SendFeatureData	CoreThread.cpp	/^void CoreThread::SendFeatureData(PalInfo *pal)$/;"	f	class:CoreThread
+SendFile	SendFile.cpp	/^SendFile::SendFile()$/;"	f	class:SendFile
+SendFile	SendFile.h	/^class SendFile {$/;"	c
+SendFileData	SendFileData.cpp	/^SendFileData::SendFileData(int sk, FileInfo *fl):sock(sk), file(fl), para(NULL),$/;"	f	class:SendFileData
+SendFileData	SendFileData.h	/^class SendFileData: public TransAbstract$/;"	c
+SendFileDataEntry	SendFileData.cpp	/^void SendFileData::SendFileDataEntry()$/;"	f	class:SendFileData
+SendFileInfo	Command.cpp	/^void Command::SendFileInfo(int sock, PalInfo *pal, uint32_t opttype, const char *extra)$/;"	f	class:Command
+SendFileInfo	SendFile.cpp	/^void SendFile::SendFileInfo(PalInfo *pal, uint32_t opttype, GSList *filist)$/;"	f	class:SendFile
+SendFileInfoEntry	SendFile.cpp	/^void SendFile::SendFileInfoEntry(PalInfo *pal, GSList *flist)$/;"	f	class:SendFile
+SendGroupMsg	Command.cpp	/^void Command::SendGroupMsg(int sock, PalInfo *pal, const char *msg)$/;"	f	class:Command
+SendMessage	Command.cpp	/^void Command::SendMessage(int sock, PalInfo *pal, const char *msg)$/;"	f	class:Command
+SendMessage	DialogBase.cpp	/^void DialogBase::SendMessage(DialogBase *dlgpr)$/;"	f	class:DialogBase
+SendMessage	DialogGroup.cpp	/^void DialogGroup::SendMessage(DialogGroup *dlggrp)$/;"	f	class:DialogGroup
+SendMyIcon	Command.cpp	/^void Command::SendMyIcon(int sock, PalInfo *pal)$/;"	f	class:Command
+SendMySign	Command.cpp	/^void Command::SendMySign(int sock, PalInfo *pal)$/;"	f	class:Command
+SendNotifyToAll	CoreThread.cpp	/^void CoreThread::SendNotifyToAll(CoreThread *pcthrd)$/;"	f	class:CoreThread
+SendRegularFile	SendFileData.cpp	/^void SendFileData::SendRegularFile()$/;"	f	class:SendFileData
+SendReply	Command.cpp	/^void Command::SendReply(int sock, PalInfo *pal, uint32_t packetno)$/;"	f	class:Command
+SendSharedInfoEntry	SendFile.cpp	/^void SendFile::SendSharedInfoEntry(PalInfo *pal)$/;"	f	class:SendFile
+SendSublayer	Command.cpp	/^void Command::SendSublayer(int sock, PalInfo *pal, uint32_t opttype, const char *path)$/;"	f	class:Command
+SendSublayerData	Command.cpp	/^void Command::SendSublayerData(int sock, int fd)$/;"	f	class:Command
+SendTextMsg	DialogGroup.cpp	/^bool DialogGroup::SendTextMsg()$/;"	f	class:DialogGroup
+SendTextMsg	DialogPeer.cpp	/^bool DialogPeer::SendTextMsg()$/;"	f	class:DialogPeer
+SendUnitMsg	Command.cpp	/^void Command::SendUnitMsg(int sock, PalInfo *pal, uint32_t opttype, const char *msg)$/;"	f	class:Command
+SessionAbstract	mess.cpp	/^SessionAbstract::SessionAbstract()$/;"	f	class:SessionAbstract
+SessionAbstract	mess.h	/^class SessionAbstract {$/;"	c
+SetAccessPublicLimit	CoreThread.cpp	/^void CoreThread::SetAccessPublicLimit(const char *limit)$/;"	f	class:CoreThread
+SetAllValue	RevisePal.cpp	/^void RevisePal::SetAllValue()$/;"	f	class:RevisePal
+SetMemberTreeSortFunc	DialogGroup.cpp	/^void DialogGroup::SetMemberTreeSortFunc(GtkWidget *menuitem, GtkTreeModel *model)$/;"	f	class:DialogGroup
+SetMemberTreeSortType	DialogGroup.cpp	/^void DialogGroup::SetMemberTreeSortType(GtkWidget *menuitem, GtkTreeModel *model)$/;"	f	class:DialogGroup
+SetNetworkValue	DataSettings.cpp	/^void DataSettings::SetNetworkValue()$/;"	f	class:DataSettings
+SetPaltreeSortFunc	MainWindow.cpp	/^void MainWindow::SetPaltreeSortFunc(GtkWidget *menuitem, GData **mdlset)$/;"	f	class:MainWindow
+SetPaltreeSortType	MainWindow.cpp	/^void MainWindow::SetPaltreeSortType(GtkWidget *menuitem, GData **mdlset)$/;"	f	class:MainWindow
+SetPassword	ShareFile.cpp	/^void ShareFile::SetPassword(GData **widset)$/;"	f	class:ShareFile
+SetPersonalValue	DataSettings.cpp	/^void DataSettings::SetPersonalValue()$/;"	f	class:DataSettings
+SetSoundValue	DataSettings.cpp	/^void DataSettings::SetSoundValue()$/;"	f	class:DataSettings
+SetSystemValue	DataSettings.cpp	/^void DataSettings::SetSystemValue()$/;"	f	class:DataSettings
+ShareEntry	ShareFile.cpp	/^void ShareFile::ShareEntry(GtkWidget *parent)$/;"	f	class:ShareFile
+ShareFile	ShareFile.cpp	/^ShareFile::ShareFile():widset(NULL), mdlset(NULL)$/;"	f	class:ShareFile
+ShareFile	ShareFile.h	/^class ShareFile {$/;"	c
+ShowDialogPeer	DialogPeer.cpp	/^void DialogPeer::ShowDialogPeer(DialogPeer *dlgpr)$/;"	f	class:DialogPeer
+ShowInfoEnclosure	DialogPeer.cpp	/^void DialogPeer::ShowInfoEnclosure(DialogPeer *dlgpr)$/;"	f	class:DialogPeer
+ShowPallistArea	MainWindow.cpp	/^void MainWindow::ShowPallistArea(GData **widset)$/;"	f	class:MainWindow
+ShowTransWindow	MainWindow.cpp	/^void MainWindow::ShowTransWindow(GData **widset)$/;"	f	class:MainWindow
+ShowTransWindow	StatusIcon.cpp	/^void StatusIcon::ShowTransWindow()$/;"	f	class:StatusIcon
+SndtreeSelectItemChanged	DataSettings.cpp	/^void DataSettings::SndtreeSelectItemChanged(GtkTreeSelection *selection, GData **widset)$/;"	f	class:DataSettings
+SomeoneAbsence	UdpData.cpp	/^void UdpData::SomeoneAbsence()$/;"	f	class:UdpData
+SomeoneAnsentry	UdpData.cpp	/^void UdpData::SomeoneAnsentry()$/;"	f	class:UdpData
+SomeoneAskShared	UdpData.cpp	/^void UdpData::SomeoneAskShared()$/;"	f	class:UdpData
+SomeoneBcstmsg	UdpData.cpp	/^void UdpData::SomeoneBcstmsg()$/;"	f	class:UdpData
+SomeoneEntry	UdpData.cpp	/^void UdpData::SomeoneEntry()$/;"	f	class:UdpData
+SomeoneExit	UdpData.cpp	/^void UdpData::SomeoneExit()$/;"	f	class:UdpData
+SomeoneLost	UdpData.cpp	/^void UdpData::SomeoneLost()$/;"	f	class:UdpData
+SomeoneRecvmsg	UdpData.cpp	/^void UdpData::SomeoneRecvmsg()$/;"	f	class:UdpData
+SomeoneSendIcon	UdpData.cpp	/^void UdpData::SomeoneSendIcon()$/;"	f	class:UdpData
+SomeoneSendSign	UdpData.cpp	/^void UdpData::SomeoneSendSign()$/;"	f	class:UdpData
+SomeoneSendmsg	UdpData.cpp	/^void UdpData::SomeoneSendmsg()$/;"	f	class:UdpData
+SoundSystem	SoundSystem.cpp	/^SoundSystem::SoundSystem()$/;"	f	class:SoundSystem
+SoundSystem	SoundSystem.cpp	/^SoundSystem::SoundSystem():eltset(NULL), persist(false)$/;"	f	class:SoundSystem
+SoundSystem	SoundSystem.h	/^class SoundSystem$/;"	c
+StatusIcon	StatusIcon.cpp	/^StatusIcon::StatusIcon():statusicon(NULL), timerid(0)$/;"	f	class:StatusIcon
+StatusIcon	StatusIcon.h	/^class StatusIcon {$/;"	c
+StatusIconActivate	StatusIcon.cpp	/^void StatusIcon::StatusIconActivate()$/;"	f	class:StatusIcon
+StatusIconQueryTooltip	StatusIcon.cpp	/^gboolean StatusIcon::StatusIconQueryTooltip(GtkStatusIcon *statusicon, gint x, gint y,$/;"	f	class:StatusIcon
+Stop	SoundSystem.cpp	/^void SoundSystem::Stop()$/;"	f	class:SoundSystem
+StopTesting	DataSettings.cpp	/^void DataSettings::StopTesting()$/;"	f	class:DataSettings
+SystemLog	LogSystem.cpp	/^void LogSystem::SystemLog(const char *fmt, ...)$/;"	f	class:LogSystem
+TCPDATA_H	TcpData.h	13;"	d
+TRANS_TREE_MAX	MainWindow.cpp	30;"	d	file:
+TWinConfigureEvent	MainWindow.cpp	/^gboolean MainWindow::TWinConfigureEvent(GtkWidget *window,$/;"	f	class:MainWindow
+TcpData	TcpData.cpp	/^TcpData::TcpData():sock(-1), size(0)$/;"	f	class:TcpData
+TcpData	TcpData.h	/^class TcpData {$/;"	c
+TcpDataEntry	TcpData.cpp	/^void TcpData::TcpDataEntry(int sock)$/;"	f	class:TcpData
+TcpSockQuote	CoreThread.h	/^        inline int &TcpSockQuote() {$/;"	f	class:CoreThread
+TerminateAllTransTask	MainWindow.cpp	/^void MainWindow::TerminateAllTransTask(GtkTreeModel *model)$/;"	f	class:MainWindow
+TerminateTrans	RecvFileData.cpp	/^void RecvFileData::TerminateTrans()$/;"	f	class:RecvFileData
+TerminateTrans	SendFileData.cpp	/^void SendFileData::TerminateTrans()$/;"	f	class:SendFileData
+TerminateTransTask	MainWindow.cpp	/^void MainWindow::TerminateTransTask(GtkTreeModel *model)$/;"	f	class:MainWindow
+ThreadAskSharedFile	UdpData.cpp	/^void UdpData::ThreadAskSharedFile(PalInfo *pal)$/;"	f	class:UdpData
+ThreadAskSharedPasswd	UdpData.cpp	/^void UdpData::ThreadAskSharedPasswd(PalInfo *pal)$/;"	f	class:UdpData
+ThreadFunc	utils.h	/^typedef void *(*ThreadFunc)(void *);$/;"	t
+ThreadRecvFile	DialogPeer.cpp	/^void DialogPeer::ThreadRecvFile(FileInfo *file)$/;"	f	class:DialogPeer
+ThreadSendFile	SendFile.cpp	/^void SendFile::ThreadSendFile(int sock, FileInfo *file)$/;"	f	class:SendFile
+ThreadSendTextMsg	DialogPeer.cpp	/^void DialogPeer::ThreadSendTextMsg(MsgPara *para)$/;"	f	class:DialogPeer
+TransAbstract	mess.cpp	/^TransAbstract::TransAbstract()$/;"	f	class:TransAbstract
+TransAbstract	mess.h	/^class TransAbstract {$/;"	c
+TransPopupMenu	MainWindow.cpp	/^gboolean MainWindow::TransPopupMenu(GtkWidget *treeview, GdkEventButton *event)$/;"	f	class:MainWindow
+TransmissionActive	MainWindow.cpp	/^bool MainWindow::TransmissionActive()$/;"	f	class:MainWindow
+UDPDATA_H	UdpData.h	13;"	d
+UDT_H	mess.h	13;"	d
+URL_REGEX	utils.h	27;"	d
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	uninstall/Makefile	/^USE_NLS = yes$/;"	m
+UTILS_H	utils.h	13;"	d
+UdpData	UdpData.cpp	/^UdpData::UdpData():ipv4(0), size(0), encode(NULL)$/;"	f	class:UdpData
+UdpData	UdpData.h	/^class UdpData {$/;"	c
+UdpDataEntry	UdpData.cpp	/^void UdpData::UdpDataEntry(in_addr_t ipv4, const char buf[], size_t size)$/;"	f	class:UdpData
+UdpSockQuote	CoreThread.h	/^        } inline int &UdpSockQuote() {$/;"	f	class:CoreThread
+UpdataEnclosureRcvUI	DialogPeer.cpp	/^bool DialogPeer::UpdataEnclosureRcvUI(DialogPeer *dlgpr)$/;"	f	class:DialogPeer
+UpdateFileSendUI	DialogBase.cpp	/^gboolean DialogBase::UpdateFileSendUI(DialogBase *dlggrp)$/;"	f	class:DialogBase
+UpdateGroupInfoToPaltree	MainWindow.cpp	/^void MainWindow::UpdateGroupInfoToPaltree(GtkTreeModel *model, GtkTreeIter *iter,$/;"	f	class:MainWindow
+UpdateItemToPaltree	MainWindow.cpp	/^void MainWindow::UpdateItemToPaltree(in_addr_t ipv4)$/;"	f	class:MainWindow
+UpdateItemToTransTree	MainWindow.cpp	/^void MainWindow::UpdateItemToTransTree(GData **para)$/;"	f	class:MainWindow
+UpdateMyInfo	CoreThread.cpp	/^void CoreThread::UpdateMyInfo()$/;"	f	class:CoreThread
+UpdatePalData	DialogGroup.cpp	/^void DialogGroup::UpdatePalData(PalInfo *pal)$/;"	f	class:DialogGroup
+UpdatePalData	DialogPeer.cpp	/^void DialogPeer::UpdatePalData(PalInfo *pal)$/;"	f	class:DialogPeer
+UpdatePalInfo	UdpData.cpp	/^void UdpData::UpdatePalInfo(PalInfo *pal)$/;"	f	class:UdpData
+UpdatePalToList	CoreThread.cpp	/^void CoreThread::UpdatePalToList(in_addr_t ipv4)$/;"	f	class:CoreThread
+UpdatePalTree	MainWindow.cpp	/^void MainWindow::UpdatePalTree(MainWindow *mwin)$/;"	f	class:MainWindow
+UpdateTransUI	MainWindow.cpp	/^gboolean MainWindow::UpdateTransUI(GtkWidget *treeview)$/;"	f	class:MainWindow
+UpdateUI	MainWindow.cpp	/^gboolean MainWindow::UpdateUI(MainWindow *mwin)$/;"	f	class:MainWindow
+UpdateUI	StatusIcon.cpp	/^gboolean StatusIcon::UpdateUI(StatusIcon *sicon)$/;"	f	class:StatusIcon
+UpdateUIParaToOver	RecvFileData.cpp	/^void RecvFileData::UpdateUIParaToOver()$/;"	f	class:RecvFileData
+UpdateUIParaToOver	SendFileData.cpp	/^void SendFileData::UpdateUIParaToOver()$/;"	f	class:SendFileData
+VERSION	Makefile	/^VERSION = 0.6.2$/;"	m
+VERSION	uninstall/Makefile	/^VERSION = 0.6.2$/;"	m
+WRAPPER_H	wrapper.h	13;"	d
+WatchCoreStatus	CoreThread.cpp	/^gboolean CoreThread::WatchCoreStatus(CoreThread *pcthrd)$/;"	f	class:CoreThread
+WindowConfigureEvent	DialogBase.cpp	/^gboolean DialogBase::WindowConfigureEvent(GtkWidget *window,$/;"	f	class:DialogBase
+WriteNetSegment	DataSettings.cpp	/^void DataSettings::WriteNetSegment(const char *filename, GSList *list)$/;"	f	class:DataSettings
+WriteNetSegment	ProgramData.cpp	/^void ProgramData::WriteNetSegment(GConfClient *client)$/;"	f	class:ProgramData
+WriteProgData	ProgramData.cpp	/^void ProgramData::WriteProgData()$/;"	f	class:ProgramData
+WriteSharedData	CoreThread.cpp	/^void CoreThread::WriteSharedData()$/;"	f	class:CoreThread
+WriteUILayout	DialogPeer.cpp	/^void DialogPeer::WriteUILayout()$/;"	f	class:DialogPeer
+WriteUILayout	MainWindow.cpp	/^void MainWindow::WriteUILayout()$/;"	f	class:MainWindow
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	uninstall/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+_	deplib.h	25;"	d
+_	deplib.h	42;"	d
+_	sys.h	52;"	d
+__STDC_FORMAT_MACROS	sys.h	22;"	d
+__STDC_LIMIT_MACROS	sys.h	20;"	d
+about	HelpDialog.cpp	/^GtkWidget *HelpDialog::about = NULL;$/;"	m	class:HelpDialog	file:
+about	HelpDialog.h	/^        static GtkWidget *about;$/;"	m	class:HelpDialog
+abs_builddir	Makefile	/^abs_builddir = \/home\/sg-os\/iptux\/iptux-0.6.2\/src$/;"	m
+abs_builddir	uninstall/Makefile	/^abs_builddir = \/home\/sg-os\/iptux\/iptux-0.6.2\/src\/uninstall$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/sg-os\/iptux\/iptux-0.6.2\/src$/;"	m
+abs_srcdir	uninstall/Makefile	/^abs_srcdir = \/home\/sg-os\/iptux\/iptux-0.6.2\/src\/uninstall$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/sg-os\/iptux\/iptux-0.6.2$/;"	m
+abs_top_builddir	uninstall/Makefile	/^abs_top_builddir = \/home\/sg-os\/iptux\/iptux-0.6.2$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/sg-os\/iptux\/iptux-0.6.2$/;"	m
+abs_top_srcdir	uninstall/Makefile	/^abs_top_srcdir = \/home\/sg-os\/iptux\/iptux-0.6.2$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	uninstall/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	uninstall/Makefile	/^ac_ct_CXX = g++$/;"	m
+accel	DialogBase.h	/^        GtkAccelGroup *accel;   \/\/快捷键组$/;"	m	class:DialogBase
+accel	MainWindow.h	/^        GtkAccelGroup *accel;   \/\/快捷键集组$/;"	m	class:MainWindow
+alter_interface_mode	callback.cpp	/^gboolean alter_interface_mode()$/;"	f
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	uninstall/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	uninstall/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	uninstall/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	uninstall/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	uninstall/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	uninstall/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	uninstall/Makefile	/^am__include = include$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__installdirs	uninstall/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__is_gnu_make	Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	uninstall/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	uninstall/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	uninstall/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	uninstall/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	uninstall/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+am__mv	uninstall/Makefile	/^am__mv = mv -f$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	uninstall/Makefile	/^am__quote = $/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	uninstall/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	uninstall/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	uninstall/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	uninstall/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_CXXLD_	Makefile	/^am__v_CXXLD_ = $(am__v_CXXLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CXXLD_	uninstall/Makefile	/^am__v_CXXLD_ = $(am__v_CXXLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CXXLD_0	Makefile	/^am__v_CXXLD_0 = @echo "  CXXLD   " $@;$/;"	m
+am__v_CXXLD_0	uninstall/Makefile	/^am__v_CXXLD_0 = @echo "  CXXLD   " $@;$/;"	m
+am__v_CXXLD_1	Makefile	/^am__v_CXXLD_1 = $/;"	m
+am__v_CXXLD_1	uninstall/Makefile	/^am__v_CXXLD_1 = $/;"	m
+am__v_CXX_	Makefile	/^am__v_CXX_ = $(am__v_CXX_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CXX_	uninstall/Makefile	/^am__v_CXX_ = $(am__v_CXX_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CXX_0	Makefile	/^am__v_CXX_0 = @echo "  CXX     " $@;$/;"	m
+am__v_CXX_0	uninstall/Makefile	/^am__v_CXX_0 = @echo "  CXX     " $@;$/;"	m
+am__v_CXX_1	Makefile	/^am__v_CXX_1 = $/;"	m
+am__v_CXX_1	uninstall/Makefile	/^am__v_CXX_1 = $/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	uninstall/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	uninstall/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	uninstall/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	uninstall/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	uninstall/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	uninstall/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	uninstall/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	uninstall/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	uninstall/Makefile	/^am__v_at_1 = $/;"	m
+am_ihateiptux_OBJECTS	uninstall/Makefile	/^am_ihateiptux_OBJECTS = ihateiptux.$(OBJEXT) utils.$(OBJEXT)$/;"	m
+am_iptux_OBJECTS	Makefile	/^am_iptux_OBJECTS = AnalogFS.$(OBJEXT) Command.$(OBJEXT) \\$/;"	m
+analysis_parameter	support.cpp	/^void analysis_parameter(int argc, char *const argv[])$/;"	f
+assert_filename_inexist	utils.cpp	/^char *assert_filename_inexist(const char *path)$/;"	f
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = iptux$(EXEEXT)$/;"	m
+bin_PROGRAMS	uninstall/Makefile	/^bin_PROGRAMS = ihateiptux$(EXEEXT)$/;"	m
+bind_iptux_port	support.cpp	/^void bind_iptux_port()$/;"	f
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	uninstall/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+blacklist	CoreThread.h	/^        GSList *blacklist;      \/\/黑名单链表$/;"	m	class:CoreThread
+brdlist	CoreThread.h	/^        GSList *rgllist, *sgmlist, *grplist, *brdlist;  \/\/群组链表(成员不能被删除)$/;"	m	class:CoreThread
+bs	Makefile	/^        bs=\\\\; \\$/;"	m
+bs	uninstall/Makefile	/^        bs=\\\\; \\$/;"	m
+btype	mess.h	/^        GroupBelongType btype;  \/\/\/< 所属类型$/;"	m	class:MsgPara
+buf	Command.h	/^        char buf[MAX_UDPLEN];   \/\/数据缓冲区$/;"	m	class:Command
+buf	RecvFileData.h	/^        char buf[MAX_SOCKLEN];  \/\/数据缓冲区$/;"	m	class:RecvFileData
+buf	SendFileData.h	/^        char buf[MAX_SOCKLEN];  \/\/数据缓冲区$/;"	m	class:SendFileData
+buf	TcpData.h	/^        char buf[MAX_SOCKLEN];  \/\/缓冲区$/;"	m	class:TcpData
+buf	UdpData.h	/^        char buf[MAX_UDPLEN];   \/\/数据缓冲区$/;"	m	class:UdpData
+buffer	mess.h	/^        GtkTextBuffer *buffer;  \/\/\/< 消息缓冲区 *$/;"	m	class:GroupInfo
+build_alias	Makefile	/^build_alias = i686-linux-gnu$/;"	m
+build_alias	uninstall/Makefile	/^build_alias = i686-linux-gnu$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	uninstall/Makefile	/^builddir = .$/;"	m
+chdir	AnalogFS.cpp	/^int AnalogFS::chdir(const char *dir)$/;"	f	class:AnalogFS
+check_privileged	uninstall/utils.cpp	/^void check_privileged()$/;"	f
+choose_file_with_preview	callback.cpp	/^gchar *choose_file_with_preview(const gchar *title, GtkWidget *parent)$/;"	f
+chooser_update_preview	callback.cpp	/^void chooser_update_preview(GtkFileChooser *chooser, GtkWidget *preview)$/;"	f
+cnxnid	ProgramData.h	/^        guint cnxnid;           \/\/GConfClient连接ID$/;"	m	class:ProgramData
+codeset	ProgramData.h	/^        char *codeset;          \/\/候选编码 *$/;"	m	class:ProgramData
+convert_encode	utils.cpp	/^char *convert_encode(const char *string, const char *tocode, const char *fromcode)$/;"	f
+convert_encode_copy	utils.cpp	/^char *convert_encode_copy(const char *string, const char *tocode, const char *fromcode)$/;"	f
+cthrd	iptux.cpp	/^CoreThread cthrd;$/;"	v
+cwd	AnalogFS.h	/^        inline char* cwd() {$/;"	f	class:AnalogFS
+d	Makefile	/^	  { d=$$3; if (dirs[d] != 1) { print "d", d; dirs[d] = 1 } \\$/;"	m
+d	uninstall/Makefile	/^	  { d=$$3; if (dirs[d] != 1) { print "d", d; dirs[d] = 1 } \\$/;"	m
+data	mess.h	/^        char *data;     \/\/\/< 数据串 *$/;"	m	class:ChipData
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	uninstall/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	uninstall/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depcomp	uninstall/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depmode	Makefile	/^CCDEPMODE = depmode=none$/;"	m
+depmode	Makefile	/^CXXDEPMODE = depmode=none$/;"	m
+depmode	uninstall/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+depmode	uninstall/Makefile	/^CXXDEPMODE = depmode=none$/;"	m
+description	mess.h	/^        char *description;      \/\/\/< 此IP段描述$/;"	m	class:NetSegment
+desktopdir	Makefile	/^desktopdir = \/usr\/share\/applications$/;"	m
+desktopdir	uninstall/Makefile	/^desktopdir = \/usr\/share\/applications$/;"	m
+dialog	mess.h	/^        GtkWidget *dialog;      \/\/\/< 对话框(若存在则必须与对话框类关联)$/;"	m	class:GroupInfo
+difftimeval	utils.h	17;"	d
+dir	Makefile	/^	    dir=`echo "\/$$file" | sed -e 's,\/[^\/]*$$,,'`; \\$/;"	m
+dir	uninstall/Makefile	/^	    dir=`echo "\/$$file" | sed -e 's,\/[^\/]*$$,,'`; \\$/;"	m
+dist_files	Makefile	/^	  dist_files=`for file in $$list; do echo $$file; done | \\$/;"	m
+dist_files	uninstall/Makefile	/^	  dist_files=`for file in $$list; do echo $$file; done | \\$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	uninstall/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dtlist	mess.h	/^        GSList *dtlist; \/\/\/< 数据链表 *$/;"	m	class:MsgPara
+dtset	DialogBase.h	/^        GData *dtset;           \/\/通用数据集$/;"	m	class:DialogBase
+dtset	MainWindow.h	/^        GData *dtset;           \/\/通用数据集$/;"	m	class:MainWindow
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	uninstall/Makefile	/^dvidir = ${docdir}$/;"	m
+ecsList	CoreThread.h	/^        GSList *ecsList;                \/\/文件链表(好友发过来)$/;"	m	class:CoreThread
+eltset	SoundSystem.h	/^        GData *eltset;          \/\/元素集$/;"	m	class:SoundSystem
+embedded	StatusIcon.h	/^	gboolean embedded;$/;"	m	class:StatusIcon
+encode	ProgramData.h	/^        char *encode;           \/\/默认通信编码 *$/;"	m	class:ProgramData
+encode	UdpData.h	/^        char *encode;                   \/\/原数据编码(NULL意味着utf8)$/;"	m	class:UdpData
+encode	mess.h	/^        char *encode;   \/\/\/< 好友编码 *$/;"	m	class:PalInfo
+endip	mess.h	/^        char *endip;    \/\/\/< IP终止地址 *$/;"	m	class:NetSegment
+entry_insert_numeric	callback.cpp	/^void entry_insert_numeric(GtkWidget *entry, gchar *text, gint length)$/;"	f
+entry_query_tooltip	callback.cpp	/^gboolean entry_query_tooltip(GtkWidget *entry, gint x, gint y,$/;"	f
+exec_prefix	Makefile	/^exec_prefix = \/usr$/;"	m
+exec_prefix	uninstall/Makefile	/^exec_prefix = \/usr$/;"	m
+fdc	LogSystem.h	/^        int fdc, fds;$/;"	m	class:LogSystem
+fds	LogSystem.h	/^        int fdc, fds;$/;"	m	class:LogSystem
+file	RecvFileData.h	/^        FileInfo *file;         \/\/文件信息$/;"	m	class:RecvFileData
+file	SendFileData.h	/^        FileInfo *file;         \/\/文件信息$/;"	m	class:SendFileData
+fileattr	mess.h	/^        uint32_t fileattr;      \/\/\/< 文件属性$/;"	m	class:FileInfo
+filectime	mess.h	/^        uint32_t filectime;        \/\/\/<  文件创建时间$/;"	m	class:FileInfo
+fileid	mess.h	/^        uint32_t fileid;        \/\/\/< 唯一标识$/;"	m	class:FileInfo
+filemtime	mess.h	/^        uint32_t filemtime;        \/\/\/<  文件最后修改时间$/;"	m	class:FileInfo
+filenum	mess.h	/^        uint32_t filenum;          \/\/\/<  包内编号$/;"	m	class:FileInfo
+fileown	mess.h	/^        PalInfo *fileown;       \/\/\/< 文件拥有者(来自好友*)$/;"	m	class:FileInfo
+filepath	mess.h	/^        char *filepath; \/\/\/< 文件路径 *$/;"	m	class:FileInfo
+files	Makefile	/^	files=`for p in $$list; do echo "$$p"; done | \\$/;"	m
+files	uninstall/Makefile	/^	files=`for p in $$list; do echo "$$p"; done | \\$/;"	m
+filesize	mess.h	/^        int64_t filesize;       \/\/\/< 文件大小$/;"	m	class:FileInfo
+filetime	RecvFileData.h	/^        struct timeval tasktime, filetime;      \/\/任务开始时间&文件开始时间$/;"	m	class:RecvFileData
+filetime	SendFileData.h	/^        struct timeval tasktime, filetime;      \/\/任务开始时间&文件开始时间$/;"	m	class:SendFileData
+finishedsize	mess.h	/^        int64_t finishedsize;   \/\/\/< 已完成大小$/;"	m	class:FileInfo
+flags	ProgramData.h	/^        uint8_t flags;          \/\/6 图标,5 传输:4 enter:3 历史:2 日志:1 黑名单:0 共享$/;"	m	class:ProgramData
+flags	mess.h	/^        uint8_t flags;  \/\/\/< 3 黑名单:2 更改:1 在线:0 兼容$/;"	m	class:PalInfo
+flg	Makefile	/^    flg=`printf '%s\\n' "$$flg" | sed "s\/$$1.*$$\/\/"`; \\$/;"	m
+flg	uninstall/Makefile	/^    flg=`printf '%s\\n' "$$flg" | sed "s\/$$1.*$$\/\/"`; \\$/;"	m
+font	ProgramData.h	/^        char *font;             \/\/面板字体 *$/;"	m	class:ProgramData
+ftwsize	AnalogFS.cpp	/^int64_t AnalogFS::ftwsize(const char *dir_name)$/;"	f	class:AnalogFS
+get_file_system_info	utils.cpp	/^void get_file_system_info(const char *path, int64_t *avail, int64_t *total)$/;"	f
+get_sys_broadcast_addr	support.cpp	/^GSList *get_sys_broadcast_addr(int sock)$/;"	f
+get_sys_host_addr	support.cpp	/^GSList *get_sys_host_addr(int sock)$/;"	f
+get_sys_host_addr_string	support.cpp	/^char *get_sys_host_addr_string(int sock)$/;"	f
+getformattime	utils.cpp	/^char *getformattime(gboolean date, const char *format, ...)$/;"	f
+giter_compare_foreach	utils.cpp	/^gboolean giter_compare_foreach(gunichar src, gunichar dst)$/;"	f
+group	mess.h	/^        char *group;    \/\/\/< 所在群组$/;"	m	class:PalInfo
+grpid	mess.h	/^        GQuark grpid;   \/\/\/< 唯一标识$/;"	m	class:GroupInfo
+grpinf	DialogBase.h	/^        GroupInfo *grpinf;      \/\/群组信息$/;"	m	class:DialogBase
+grplist	CoreThread.h	/^        GSList *rgllist, *sgmlist, *grplist, *brdlist;  \/\/群组链表(成员不能被删除)$/;"	m	class:CoreThread
+has_opt	Makefile	/^      *$$target_option*) has_opt=yes; break;; \\$/;"	m
+has_opt	Makefile	/^  has_opt=no; \\$/;"	m
+has_opt	uninstall/Makefile	/^      *$$target_option*) has_opt=yes; break;; \\$/;"	m
+has_opt	uninstall/Makefile	/^  has_opt=no; \\$/;"	m
+here	Makefile	/^	here=`$(am__cd) $(top_builddir) && pwd` \\$/;"	m
+here	Makefile	/^	here=`pwd`; \\$/;"	m
+here	uninstall/Makefile	/^	here=`$(am__cd) $(top_builddir) && pwd` \\$/;"	m
+here	uninstall/Makefile	/^	here=`pwd`; \\$/;"	m
+host	mess.h	/^        char *host;     \/\/\/< 好友主机 *$/;"	m	class:PalInfo
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	uninstall/Makefile	/^host_alias = $/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	uninstall/Makefile	/^htmldir = ${docdir}$/;"	m
+iconfile	mess.h	/^        char *iconfile; \/\/\/< 好友头像 *$/;"	m	class:PalInfo
+ihateiptux_LDADD	uninstall/Makefile	/^ihateiptux_LDADD = $(LDADD)$/;"	m
+ihateiptux_LDFLAGS	uninstall/Makefile	/^ihateiptux_LDFLAGS = $(all_libraries)$/;"	m
+ihateiptux_LINK	uninstall/Makefile	/^ihateiptux_LINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) \\$/;"	m
+ihateiptux_OBJECTS	uninstall/Makefile	/^ihateiptux_OBJECTS = $(am_ihateiptux_OBJECTS)$/;"	m
+ihateiptux_SOURCES	uninstall/Makefile	/^ihateiptux_SOURCES = ihateiptux.cpp utils.cpp$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	uninstall/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+infodir	uninstall/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+init_iptux_environment	support.cpp	/^void init_iptux_environment()$/;"	f
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/install-sh$/;"	m
+install_sh	uninstall/Makefile	/^install_sh = ${SHELL} \/home\/sg-os\/iptux\/iptux-0.6.2\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	uninstall/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^	    install_sh_PROGRAM="$(INSTALL_STRIP_PROGRAM)" INSTALL_STRIP_FLAG=-s \\$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	uninstall/Makefile	/^	    install_sh_PROGRAM="$(INSTALL_STRIP_PROGRAM)" INSTALL_STRIP_FLAG=-s \\$/;"	m
+install_sh_PROGRAM	uninstall/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	uninstall/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+ipmsg_get_attach	utils.cpp	/^char *ipmsg_get_attach(const char *msg, char ch, uint8_t times)$/;"	f
+ipmsg_get_filename	utils.cpp	/^char *ipmsg_get_filename(const char *msg, char ch, uint8_t times)$/;"	f
+ipmsg_get_filename_me	utils.cpp	/^char *ipmsg_get_filename_me(const char *pathname, char **path)$/;"	f
+ipmsg_get_filename_pal	utils.cpp	/^char *ipmsg_get_filename_pal(const char *pathname)$/;"	f
+ipmsg_get_pathname_full	utils.cpp	/^char *ipmsg_get_pathname_full(const char *path, const char *name)$/;"	f
+iptux_DEPENDENCIES	Makefile	/^iptux_DEPENDENCIES = $(am__DEPENDENCIES_1)$/;"	m
+iptux_LDADD	Makefile	/^iptux_LDADD = $(INTLLIBS) -lglib-2.0   -pthread -lgthread-2.0 -lglib-2.0   -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lglib-2.0   -lgconf-2 -lglib-2.0   $/;"	m
+iptux_OBJECTS	Makefile	/^iptux_OBJECTS = $(am_iptux_OBJECTS)$/;"	m
+iptux_SOURCES	Makefile	/^iptux_SOURCES = AnalogFS.cpp Command.cpp CoreThread.cpp DataSettings.cpp \\$/;"	m
+iptux_erase_filename_suffix	utils.cpp	/^char *iptux_erase_filename_suffix(const char *filename)$/;"	f
+iptux_get_dec_number	utils.cpp	/^uint32_t iptux_get_dec_number(const char *msg, char ch, uint8_t times)$/;"	f
+iptux_get_hex64_number	utils.cpp	/^int64_t iptux_get_hex64_number(const char *msg, char ch, uint8_t times)$/;"	f
+iptux_get_hex_number	utils.cpp	/^uint32_t iptux_get_hex_number(const char *msg, char ch, uint8_t times)$/;"	f
+iptux_get_section_string	utils.cpp	/^char *iptux_get_section_string(const char *msg, char ch, uint8_t times)$/;"	f
+iptux_gui_quit	support.cpp	/^void iptux_gui_quit()$/;"	f
+iptux_init	support.cpp	/^void iptux_init()$/;"	f
+iptux_open_url	support.cpp	/^void iptux_open_url(const char *url)$/;"	f
+iptux_quit	support.cpp	/^void iptux_quit(int _ignore)$/;"	f
+iptux_skip_section	utils.cpp	/^const char *iptux_skip_section(const char *string, char ch, uint8_t times)$/;"	f
+iptux_skip_string	utils.cpp	/^const char *iptux_skip_string(const char *string, size_t size, uint8_t times)$/;"	f
+iptux_string_getline	utils.cpp	/^char *iptux_string_getline(const char *str)$/;"	f
+iptux_string_validate	utils.cpp	/^char *iptux_string_validate(const char *string, const char *codeset, char **encode)$/;"	f
+iptux_string_validate_copy	utils.cpp	/^char *iptux_string_validate_copy(const char *string, const char *codeset, char **encode)$/;"	f
+ipv4	UdpData.h	/^        in_addr_t ipv4;                 \/\/数据来自$/;"	m	class:UdpData
+ipv4	mess.h	/^        in_addr_t ipv4; \/\/\/< 好友IP$/;"	m	class:PalInfo
+ipv4_get_lan_name	support.cpp	/^char *ipv4_get_lan_name(in_addr_t ipv4)$/;"	f
+ipv4_order	utils.cpp	/^void ipv4_order(in_addr_t *ip1, in_addr_t *ip2)$/;"	f
+ir	Makefile	/^	    if test "$$dir" = .; then dir=; else dir=\/$$dir; fi; \\$/;"	m
+ir	uninstall/Makefile	/^	    if test "$$dir" = .; then dir=; else dir=\/$$dir; fi; \\$/;"	m
+lasktime	DialogBase.h	/^        struct timeval lasktime;      \/\/上一次更新UI的时间$/;"	m	class:DialogBase
+lcursor	ProgramData.h	/^        GdkCursor *xcursor, *lcursor;   \/\/光标$/;"	m	class:ProgramData
+lgsys	iptux.cpp	/^LogSystem lgsys;$/;"	v
+libdir	Makefile	/^libdir = ${prefix}\/lib\/i386-linux-gnu$/;"	m
+libdir	uninstall/Makefile	/^libdir = ${prefix}\/lib\/i386-linux-gnu$/;"	m
+libexecdir	Makefile	/^libexecdir = ${prefix}\/lib\/i386-linux-gnu$/;"	m
+libexecdir	uninstall/Makefile	/^libexecdir = ${prefix}\/lib\/i386-linux-gnu$/;"	m
+list	Makefile	/^	@list='$(bin_PROGRAMS)'; test -n "$(bindir)" || list=; \\$/;"	m
+list	Makefile	/^	list='$(DISTFILES)'; \\$/;"	m
+list	Makefile	/^	list='$(am__tagged_files)'; \\$/;"	m
+list	Makefile	/^  list='$(am__tagged_files)'; \\$/;"	m
+list	uninstall/Makefile	/^	@list='$(bin_PROGRAMS)'; test -n "$(bindir)" || list=; \\$/;"	m
+list	uninstall/Makefile	/^	list='$(DISTFILES)'; \\$/;"	m
+list	uninstall/Makefile	/^	list='$(am__tagged_files)'; \\$/;"	m
+list	uninstall/Makefile	/^  list='$(am__tagged_files)'; \\$/;"	m
+localedir	Makefile	/^localedir = \/usr\/share\/locale$/;"	m
+localedir	uninstall/Makefile	/^localedir = \/usr\/share\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = \/var$/;"	m
+localstatedir	uninstall/Makefile	/^localstatedir = \/var$/;"	m
+logodir	Makefile	/^logodir = \/usr\/share\/icons$/;"	m
+logodir	uninstall/Makefile	/^logodir = \/usr\/share\/icons$/;"	m
+main	iptux.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	uninstall/ihateiptux.cpp	/^int main(int argc, char *argv[])$/;"	f
+mandir	Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mandir	uninstall/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mdlset	DataSettings.h	/^        GData *mdlset;          \/\/数据model集$/;"	m	class:DataSettings
+mdlset	DialogBase.h	/^        GData *mdlset;          \/\/数据model集$/;"	m	class:DialogBase
+mdlset	MainWindow.h	/^        GData *mdlset;          \/\/数据model集$/;"	m	class:MainWindow
+mdlset	RevisePal.h	/^        GData *mdlset;$/;"	m	class:RevisePal
+mdlset	ShareFile.h	/^        GData *mdlset;$/;"	m	class:ShareFile
+member	mess.h	/^        GSList *member; \/\/\/< 群组成员(数据不为本链表拥有)$/;"	m	class:GroupInfo
+mergepath	AnalogFS.cpp	/^int AnalogFS::mergepath(char tpath[], const char *npath)$/;"	f	class:AnalogFS
+mkdir	AnalogFS.cpp	/^int AnalogFS::mkdir(const char *dir, mode_t mode)$/;"	f	class:AnalogFS
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	uninstall/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+mkinstalldirs	uninstall/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+model_clear_all	callback.cpp	/^void model_clear_all(GtkTreeModel *model)$/;"	f
+model_select_all	callback.cpp	/^void model_select_all(GtkTreeModel *model)$/;"	f
+model_turn_all	callback.cpp	/^void model_turn_all(GtkTreeModel *model)$/;"	f
+model_turn_select	callback.cpp	/^void model_turn_select(GtkTreeModel *model, gchar *path)$/;"	f
+more	HelpDialog.cpp	/^GtkWidget *HelpDialog::more = NULL;$/;"	m	class:HelpDialog	file:
+more	HelpDialog.h	/^        static GtkWidget *more;$/;"	m	class:HelpDialog
+msgline	CoreThread.h	/^        GQueue msgline; \/\/消息队列$/;"	m	class:CoreThread
+msgtip	ProgramData.h	/^        char *msgtip;           \/\/消息到来提示声音 *$/;"	m	class:ProgramData
+mutex	CoreThread.h	/^        pthread_mutex_t mutex;  \/\/锁$/;"	m	class:CoreThread
+mutex	ProgramData.h	/^        pthread_mutex_t mutex;  \/\/锁$/;"	m	class:ProgramData
+mwin	iptux.cpp	/^MainWindow mwin;$/;"	v
+mygroup	ProgramData.h	/^        char *mygroup;  \/\/所属群组 *$/;"	m	class:ProgramData
+myicon	ProgramData.h	/^        char *myicon;           \/\/个人头像 *$/;"	m	class:ProgramData
+name	mess.h	/^        char *name;     \/\/\/< 昵称 *$/;"	m	class:PalInfo
+name	mess.h	/^        char *name;     \/\/\/< 群组名称 *$/;"	m	class:GroupInfo
+netseg	ProgramData.h	/^        GSList *netseg;         \/\/需要通知登录的IP段$/;"	m	class:ProgramData
+nickname	ProgramData.h	/^        char *nickname; \/\/昵称 *$/;"	m	class:ProgramData
+noinst_HEADERS	Makefile	/^noinst_HEADERS = AnalogFS.h Command.h CoreThread.h DataSettings.h DetectPal.h DialogBase.h \\$/;"	m
+noinst_HEADERS	uninstall/Makefile	/^noinst_HEADERS = utils.h$/;"	m
+nonempty	Makefile	/^  BEGIN { nonempty = 0; } \\$/;"	m
+nonempty	Makefile	/^  { items[$$0] = 1; nonempty = 1; } \\$/;"	m
+nonempty	uninstall/Makefile	/^  BEGIN { nonempty = 0; } \\$/;"	m
+nonempty	uninstall/Makefile	/^  { items[$$0] = 1; nonempty = 1; } \\$/;"	m
+numeric_to_rate	utils.cpp	/^char *numeric_to_rate(uint32_t numeric)$/;"	f
+numeric_to_size	utils.cpp	/^char *numeric_to_size(int64_t numeric)$/;"	f
+numeric_to_time	utils.cpp	/^char *numeric_to_time(uint32_t numeric)$/;"	f
+obtain_pixbuf_from_stock	support.cpp	/^GdkPixbuf *obtain_pixbuf_from_stock(const gchar *stock_id)$/;"	f
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	uninstall/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open	AnalogFS.cpp	/^int AnalogFS::open(const char *fn, int flags) {$/;"	f	class:AnalogFS
+open	AnalogFS.cpp	/^int AnalogFS::open(const char *fn, int flags, mode_t mode)$/;"	f	class:AnalogFS
+opendir	AnalogFS.cpp	/^DIR *AnalogFS::opendir(const char *dir)$/;"	f	class:AnalogFS
+operator new	wrapper.cpp	/^void *operator new(size_t size)$/;"	f
+packetn	Command.cpp	/^uint32_t Command::packetn = 1;$/;"	m	class:Command	file:
+packetn	Command.h	/^        static uint32_t packetn;                \/\/包编号$/;"	m	class:Command
+packetn	mess.h	/^        uint32_t packetn;       \/\/\/< 包编号$/;"	m	class:FileInfo
+packetn	mess.h	/^        uint32_t packetn;       \/\/\/< 已接受最大的包编号$/;"	m	class:PalInfo
+pal	RevisePal.h	/^        PalInfo *pal;$/;"	m	class:RevisePal
+pal	mess.h	/^        PalInfo *pal;   \/\/\/< 好友数据信息(来自好友*)$/;"	m	class:MsgPara
+palicon	ProgramData.h	/^        char *palicon;          \/\/默认头像 *$/;"	m	class:ProgramData
+pallist	CoreThread.h	/^        GSList *pallist;                \/\/好友链表(成员不能被删除)$/;"	m	class:CoreThread
+para	RecvFileData.h	/^        GData *para;            \/\/UI参考数据$/;"	m	class:RecvFileData
+para	SendFileData.h	/^        GData *para;            \/\/UI参考数据$/;"	m	class:SendFileData
+passwd	CoreThread.h	/^        char *passwd;           \/\/共享文件密码$/;"	m	class:CoreThread
+path	AnalogFS.h	/^        char path[MAX_PATHLEN]; \/\/当前工作路径$/;"	m	class:AnalogFS
+path	ProgramData.h	/^        char *path;             \/\/存档路径 *$/;"	m	class:ProgramData
+pblist	CoreThread.h	/^        GSList *pblist, *prlist;        \/\/文件链表(共享\/私有)$/;"	m	class:CoreThread
+pbn	CoreThread.h	/^        uint32_t pbn, prn;      \/\/当前已使用的文件编号(共享\/私有)$/;"	m	class:CoreThread
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	uninstall/Makefile	/^pdfdir = ${docdir}$/;"	m
+percent	utils.h	21;"	d
+persist	SoundSystem.h	/^        bool persist;   \/\/声音系统占用标记$/;"	m	class:SoundSystem
+photo	mess.h	/^        char *photo;    \/\/\/< 形象照片$/;"	m	class:PalInfo
+pixbuf_shrink_scale_1	support.cpp	/^void pixbuf_shrink_scale_1(GdkPixbuf **pixbuf, int width, int height)$/;"	f
+pixmapsdir	Makefile	/^pixmapsdir = \/usr\/share\/iptux\/pixmaps$/;"	m
+pixmapsdir	uninstall/Makefile	/^pixmapsdir = \/usr\/share\/iptux\/pixmaps$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/iptux$/;"	m
+pkgdatadir	uninstall/Makefile	/^pkgdatadir = $(datadir)\/iptux$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/iptux$/;"	m
+pkgincludedir	uninstall/Makefile	/^pkgincludedir = $(includedir)\/iptux$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/iptux$/;"	m
+pkglibdir	uninstall/Makefile	/^pkglibdir = $(libdir)\/iptux$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/iptux$/;"	m
+pkglibexecdir	uninstall/Makefile	/^pkglibexecdir = $(libexecdir)\/iptux$/;"	m
+pmessage	output.h	26;"	d
+pmessage	output.h	28;"	d
+pop_error	output.cpp	/^void pop_error(const gchar *format, ...)$/;"	f
+pop_info	output.cpp	/^void pop_info(GtkWidget *parent, const gchar *format, ...)$/;"	f
+pop_obtain_shared_passwd	dialog.cpp	/^char *pop_obtain_shared_passwd(PalInfo *pal)$/;"	f
+pop_password_settings	dialog.cpp	/^char *pop_password_settings(GtkWidget *parent)$/;"	f
+pop_request_quit	dialog.cpp	/^bool pop_request_quit()$/;"	f
+pop_request_shared_file	dialog.cpp	/^bool pop_request_shared_file(PalInfo *pal)$/;"	f
+pop_save_path	dialog.cpp	/^char *pop_save_path(GtkWidget *parent)$/;"	f
+pop_warning	output.cpp	/^void pop_warning(GtkWidget *parent, const gchar *format, ...)$/;"	f
+prefix	Makefile	/^prefix = \/usr$/;"	m
+prefix	uninstall/Makefile	/^prefix = \/usr$/;"	m
+print_stun	support.cpp	/^void print_stun()$/;"	f
+print_usage	support.cpp	/^void print_usage()$/;"	f
+print_version	support.cpp	/^void print_version()$/;"	f
+prlist	CoreThread.h	/^        GSList *pblist, *prlist;        \/\/文件链表(共享\/私有)$/;"	m	class:CoreThread
+prn	CoreThread.h	/^        uint32_t pbn, prn;      \/\/当前已使用的文件编号(共享\/私有)$/;"	m	class:CoreThread
+progdt	iptux.cpp	/^ProgramData progdt;$/;"	v
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	uninstall/Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	uninstall/Makefile	/^psdir = ${docdir}$/;"	m
+ptrace	output.h	33;"	d
+ptrace	output.h	35;"	d
+pwarning	output.h	19;"	d
+pwarning	output.h	21;"	d
+rcvdsize	DialogPeer.h	/^        int64_t rcvdsize;   \/\/总计已接收大小$/;"	m	class:DialogPeer
+read_ipmsg_dirfiles	wrapper.cpp	/^ssize_t read_ipmsg_dirfiles(int fd, void *buf, size_t count, size_t offset)$/;"	f
+read_ipmsg_filedata	wrapper.cpp	/^ssize_t read_ipmsg_filedata(int fd, void *buf, size_t count, size_t offset)$/;"	f
+read_ipmsg_fileinfo	wrapper.cpp	/^ssize_t read_ipmsg_fileinfo(int fd, void *buf, size_t count, size_t offset)$/;"	f
+read_ipmsg_prefix	wrapper.cpp	/^ssize_t read_ipmsg_prefix(int fd, void *buf, size_t count)$/;"	f
+remove_file	uninstall/utils.cpp	/^void remove_file(const char *path)$/;"	f
+remove_folder	uninstall/utils.cpp	/^void remove_folder(const char *path)$/;"	f
+rgllist	CoreThread.h	/^        GSList *rgllist, *sgmlist, *grplist, *brdlist;  \/\/群组链表(成员不能被删除)$/;"	m	class:CoreThread
+rpacketn	mess.h	/^        uint32_t rpacketn;      \/\/\/< 需要接受检查的包编号$/;"	m	class:PalInfo
+sane_makeflags	Makefile	/^        sane_makeflags=`printf '%s\\n' "$$MAKEFLAGS" \\$/;"	m
+sane_makeflags	Makefile	/^    sane_makeflags=$$MFLAGS; \\$/;"	m
+sane_makeflags	Makefile	/^  sane_makeflags=$$MAKEFLAGS; \\$/;"	m
+sane_makeflags	uninstall/Makefile	/^        sane_makeflags=`printf '%s\\n' "$$MAKEFLAGS" \\$/;"	m
+sane_makeflags	uninstall/Makefile	/^    sane_makeflags=$$MFLAGS; \\$/;"	m
+sane_makeflags	uninstall/Makefile	/^  sane_makeflags=$$MAKEFLAGS; \\$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	uninstall/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sdir	Makefile	/^	  *) sdir=$(subdir)\/$(srcdir) ;; \\$/;"	m
+sdir	Makefile	/^	  [\\\\\/]* | ?:[\\\\\/]*) sdir="$(srcdir)" ;; \\$/;"	m
+sdir	uninstall/Makefile	/^	  *) sdir=$(subdir)\/$(srcdir) ;; \\$/;"	m
+sdir	uninstall/Makefile	/^	  [\\\\\/]* | ?:[\\\\\/]*) sdir="$(srcdir)" ;; \\$/;"	m
+segdes	mess.h	/^        char *segdes;   \/\/\/< 所在网段描述$/;"	m	class:PalInfo
+selection_data_get_path	support.cpp	/^GSList *selection_data_get_path(GtkSelectionData *data)$/;"	f
+server	CoreThread.h	/^        bool server;            \/\/程序是否正在服务$/;"	m	class:CoreThread
+sgmlist	CoreThread.h	/^        GSList *rgllist, *sgmlist, *grplist, *brdlist;  \/\/群组链表(成员不能被删除)$/;"	m	class:CoreThread
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	uninstall/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sicon	iptux.cpp	/^StatusIcon sicon;$/;"	v
+sign	ProgramData.h	/^        char *sign;             \/\/个性签名 *$/;"	m	class:ProgramData
+sign	mess.h	/^        char *sign;     \/\/\/< 个性签名$/;"	m	class:PalInfo
+size	Command.h	/^        size_t size;                    \/\/当前已使用缓冲区的长度$/;"	m	class:Command
+size	TcpData.h	/^        size_t size;    \/\/缓冲区已使用长度$/;"	m	class:TcpData
+size	UdpData.h	/^        size_t size;                    \/\/缓冲区数据有效长度$/;"	m	class:UdpData
+skip_next	Makefile	/^        -*I) strip_trailopt 'I'; skip_next=yes;; \\$/;"	m
+skip_next	Makefile	/^        -*O) strip_trailopt 'O'; skip_next=yes;; \\$/;"	m
+skip_next	Makefile	/^        -*l) strip_trailopt 'l'; skip_next=yes;; \\$/;"	m
+skip_next	Makefile	/^      -[JT]) skip_next=yes;; \\$/;"	m
+skip_next	Makefile	/^      -[dEDm]) skip_next=yes;; \\$/;"	m
+skip_next	Makefile	/^    test $$skip_next = yes && { skip_next=no; continue; }; \\$/;"	m
+skip_next	Makefile	/^  skip_next=no; \\$/;"	m
+skip_next	uninstall/Makefile	/^        -*I) strip_trailopt 'I'; skip_next=yes;; \\$/;"	m
+skip_next	uninstall/Makefile	/^        -*O) strip_trailopt 'O'; skip_next=yes;; \\$/;"	m
+skip_next	uninstall/Makefile	/^        -*l) strip_trailopt 'l'; skip_next=yes;; \\$/;"	m
+skip_next	uninstall/Makefile	/^      -[JT]) skip_next=yes;; \\$/;"	m
+skip_next	uninstall/Makefile	/^      -[dEDm]) skip_next=yes;; \\$/;"	m
+skip_next	uninstall/Makefile	/^    test $$skip_next = yes && { skip_next=no; continue; }; \\$/;"	m
+skip_next	uninstall/Makefile	/^  skip_next=no; \\$/;"	m
+sndfgs	ProgramData.h	/^        uint8_t sndfgs;         \/\/2 传输:1 消息:0 声音$/;"	m	class:ProgramData
+sndsys	iptux.cpp	/^SoundSystem sndsys;$/;"	v
+sock	SendFileData.h	/^        int sock;               \/\/数据套接口$/;"	m	class:SendFileData
+sock	TcpData.h	/^        int sock;       \/\/数据交流套接口$/;"	m	class:TcpData
+socket_enable_broadcast	support.cpp	/^void socket_enable_broadcast(int sock)$/;"	f
+socket_enable_reuse	support.cpp	/^void socket_enable_reuse(int sock)$/;"	f
+sounddir	Makefile	/^sounddir = \/usr\/share\/iptux\/sound$/;"	m
+sounddir	uninstall/Makefile	/^sounddir = \/usr\/share\/iptux\/sound$/;"	m
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	uninstall/Makefile	/^srcdir = .$/;"	m
+startip	mess.h	/^        char *startip;  \/\/\/< IP起始地址 *$/;"	m	class:NetSegment
+stat	AnalogFS.cpp	/^int AnalogFS::stat(const char *fn, struct stat64 *st)$/;"	f	class:AnalogFS
+statusicon	StatusIcon.h	/^        GtkStatusIcon *statusicon;$/;"	m	class:StatusIcon
+stype	mess.h	/^        MessageSourceType stype;        \/\/\/< 来源类型$/;"	m	class:MsgPara
+subdir	Makefile	/^subdir = src$/;"	m
+subdir	uninstall/Makefile	/^subdir = src\/uninstall$/;"	m
+sumsize	RecvFileData.h	/^        int64_t sumsize;        \/\/文件(目录)总大小$/;"	m	class:RecvFileData
+sumsize	SendFileData.h	/^        int64_t sumsize;        \/\/文件(目录)总大小$/;"	m	class:SendFileData
+sysconfdir	Makefile	/^sysconfdir = \/etc$/;"	m
+sysconfdir	uninstall/Makefile	/^sysconfdir = \/etc$/;"	m
+table	ProgramData.h	/^        GtkTextTagTable *table; \/\/tag table$/;"	m	class:ProgramData
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	uninstall/Makefile	/^target_alias = $/;"	m
+tasktime	RecvFileData.h	/^        struct timeval tasktime, filetime;      \/\/任务开始时间&文件开始时间$/;"	m	class:RecvFileData
+tasktime	SendFileData.h	/^        struct timeval tasktime, filetime;      \/\/任务开始时间&文件开始时间$/;"	m	class:SendFileData
+tcpsock	CoreThread.h	/^        int tcpsock, udpsock;   \/\/程序的服务监听套接口$/;"	m	class:CoreThread
+terminate	RecvFileData.h	/^        bool terminate;         \/\/终止标志(也作处理结果标识)$/;"	m	class:RecvFileData
+terminate	SendFileData.h	/^        bool terminate;         \/\/终止标志(也作处理结果标识)$/;"	m	class:SendFileData
+textview_event_after	callback.cpp	/^void textview_event_after(GtkWidget *textview, GdkEvent *ev)$/;"	f
+textview_follow_if_link	callback.cpp	/^void textview_follow_if_link(GtkWidget *textview, GtkTextIter *iter)$/;"	f
+textview_key_press_event	callback.cpp	/^gboolean textview_key_press_event(GtkWidget *textview, GdkEventKey *event)$/;"	f
+textview_motion_notify_event	callback.cpp	/^gboolean textview_motion_notify_event(GtkWidget *textview, GdkEventMotion *event)$/;"	f
+textview_set_cursor_if_appropriate	callback.cpp	/^void textview_set_cursor_if_appropriate(GtkTextView *textview, gint x, gint y)$/;"	f
+textview_visibility_notify_event	callback.cpp	/^gboolean textview_visibility_notify_event(GtkWidget *textview, GdkEventVisibility *event)$/;"	f
+timerid	CoreThread.h	/^        guint timerid;  \/\/定时器ID$/;"	m	class:CoreThread
+timerid	MainWindow.h	/^        guint timerid;          \/\/UI更新定时器ID$/;"	m	class:MainWindow
+timerid	StatusIcon.h	/^        guint timerid;$/;"	m	class:StatusIcon
+timerrcv	DialogPeer.h	/^        guint timerrcv;     \/\/接收文件界面更新计时器ID$/;"	m	class:DialogPeer
+timersend	DialogBase.h	/^        guint timersend;  \/\/ 发送文件界面更新计时器ID$/;"	m	class:DialogBase
+timestamp	ProgramData.h	/^        struct timeval timestamp;       \/\/程序数据时间戳$/;"	m	class:ProgramData
+timestamp	SoundSystem.h	/^        struct timeval timestamp;       \/\/时间戳$/;"	m	class:SoundSystem
+tmdllist	MainWindow.h	/^        GList *tmdllist;                \/\/model链表，用于构建model循环结构$/;"	m	class:MainWindow
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	uninstall/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_builddir	uninstall/Makefile	/^top_builddir = ..\/..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	uninstall/Makefile	/^top_srcdir = ..\/..$/;"	m
+topsrcdirstrip	Makefile	/^	topsrcdirstrip=`echo "$(top_srcdir)" | sed 's\/[].[^$$\\\\*]\/\\\\\\\\&\/g'`; \\$/;"	m
+topsrcdirstrip	uninstall/Makefile	/^	topsrcdirstrip=`echo "$(top_srcdir)" | sed 's\/[].[^$$\\\\*]\/\\\\\\\\&\/g'`; \\$/;"	m
+torcvsize	DialogPeer.h	/^        int64_t torcvsize;  \/\/总计待接收大小(包括已接收)$/;"	m	class:DialogPeer
+totalsendsize	DialogBase.h	/^        int64_t totalsendsize;  \/\/总计待发送大小(包括已发送)$/;"	m	class:DialogBase
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	uninstall/Makefile	/^transform = $(program_transform_name)$/;"	m
+transtip	ProgramData.h	/^        char *transtip;         \/\/传输完成提示声音 *$/;"	m	class:ProgramData
+type	mess.h	/^        GroupBelongType type;   \/\/\/< 群组类型$/;"	m	class:GroupInfo
+type	mess.h	/^        MessageContentType type;        \/\/\/< 消息内容类型$/;"	m	class:ChipData
+udpsock	CoreThread.h	/^        int tcpsock, udpsock;   \/\/程序的服务监听套接口$/;"	m	class:CoreThread
+unique	Makefile	/^	  test -n "$$unique" || unique=$$empty_fix; \\$/;"	m
+unique	Makefile	/^  unique=`for i in $$list; do \\$/;"	m
+unique	uninstall/Makefile	/^	  test -n "$$unique" || unique=$$empty_fix; \\$/;"	m
+unique	uninstall/Makefile	/^  unique=`for i in $$list; do \\$/;"	m
+urlregex	ProgramData.h	/^        GRegex *urlregex;               \/\/URL正则表达式$/;"	m	class:ProgramData
+user	mess.h	/^        char *user;     \/\/\/< 好友用户 *$/;"	m	class:PalInfo
+utils_h	uninstall/utils.h	13;"	d
+version	mess.h	/^        char *version;  \/\/\/< 版本串 *$/;"	m	class:PalInfo
+volume	ProgramData.h	/^        double volume;          \/\/音量控制$/;"	m	class:ProgramData
+widget_enable_dnd_uri	support.cpp	/^void widget_enable_dnd_uri(GtkWidget *widget)$/;"	f
+widset	DataSettings.h	/^        GData *widset;          \/\/窗体集$/;"	m	class:DataSettings
+widset	DetectPal.h	/^        GData *widset;$/;"	m	class:DetectPal
+widset	DialogBase.h	/^        GData *widset;          \/\/窗体集$/;"	m	class:DialogBase
+widset	MainWindow.h	/^        GData *widset;          \/\/窗体集$/;"	m	class:MainWindow
+widset	RevisePal.h	/^        GData *widset;$/;"	m	class:RevisePal
+widset	ShareFile.h	/^        GData *widset;$/;"	m	class:ShareFile
+xcursor	ProgramData.h	/^        GdkCursor *xcursor, *lcursor;   \/\/光标$/;"	m	class:ProgramData
+xread	wrapper.cpp	/^ssize_t xread(int fd, void *buf, size_t count)$/;"	f
+xwrite	wrapper.cpp	/^ssize_t xwrite(int fd, const void *buf, size_t count)$/;"	f
+~AnalogFS	AnalogFS.cpp	/^AnalogFS::~AnalogFS()$/;"	f	class:AnalogFS
+~ChipData	mess.cpp	/^ChipData::~ChipData()$/;"	f	class:ChipData
+~Command	Command.cpp	/^Command::~Command()$/;"	f	class:Command
+~CoreThread	CoreThread.cpp	/^CoreThread::~CoreThread()$/;"	f	class:CoreThread
+~DataSettings	DataSettings.cpp	/^DataSettings::~DataSettings()$/;"	f	class:DataSettings
+~DetectPal	DetectPal.cpp	/^DetectPal::~DetectPal()$/;"	f	class:DetectPal
+~DialogBase	DialogBase.cpp	/^DialogBase::~DialogBase()$/;"	f	class:DialogBase
+~DialogGroup	DialogGroup.cpp	/^DialogGroup::~DialogGroup()$/;"	f	class:DialogGroup
+~DialogPeer	DialogPeer.cpp	/^DialogPeer::~DialogPeer()$/;"	f	class:DialogPeer
+~FileInfo	mess.cpp	/^FileInfo::~FileInfo()$/;"	f	class:FileInfo
+~GroupInfo	mess.cpp	/^GroupInfo::~GroupInfo()$/;"	f	class:GroupInfo
+~HelpDialog	HelpDialog.cpp	/^HelpDialog::~HelpDialog()$/;"	f	class:HelpDialog
+~LogSystem	LogSystem.cpp	/^LogSystem::~LogSystem()$/;"	f	class:LogSystem
+~MainWindow	MainWindow.cpp	/^MainWindow::~MainWindow()$/;"	f	class:MainWindow
+~MsgPara	mess.cpp	/^MsgPara::~MsgPara()$/;"	f	class:MsgPara
+~NetSegment	mess.cpp	/^NetSegment::~NetSegment()$/;"	f	class:NetSegment
+~PalInfo	mess.cpp	/^PalInfo::~PalInfo()$/;"	f	class:PalInfo
+~ProgramData	ProgramData.cpp	/^ProgramData::~ProgramData()$/;"	f	class:ProgramData
+~RecvFile	RecvFile.cpp	/^RecvFile::~RecvFile()$/;"	f	class:RecvFile
+~RecvFileData	RecvFileData.cpp	/^RecvFileData::~RecvFileData()$/;"	f	class:RecvFileData
+~RevisePal	RevisePal.cpp	/^RevisePal::~RevisePal()$/;"	f	class:RevisePal
+~SendFile	SendFile.cpp	/^SendFile::~SendFile()$/;"	f	class:SendFile
+~SendFileData	SendFileData.cpp	/^SendFileData::~SendFileData()$/;"	f	class:SendFileData
+~SessionAbstract	mess.cpp	/^SessionAbstract::~SessionAbstract()$/;"	f	class:SessionAbstract
+~ShareFile	ShareFile.cpp	/^ShareFile::~ShareFile()$/;"	f	class:ShareFile
+~SoundSystem	SoundSystem.cpp	/^SoundSystem::~SoundSystem()$/;"	f	class:SoundSystem
+~StatusIcon	StatusIcon.cpp	/^StatusIcon::~StatusIcon()$/;"	f	class:StatusIcon
+~TcpData	TcpData.cpp	/^TcpData::~TcpData()$/;"	f	class:TcpData
+~TransAbstract	mess.cpp	/^TransAbstract::~TransAbstract()$/;"	f	class:TransAbstract
+~UdpData	UdpData.cpp	/^UdpData::~UdpData()$/;"	f	class:UdpData
